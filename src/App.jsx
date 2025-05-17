@@ -28,7 +28,10 @@ const router = createBrowserRouter(
       <Route path="/Contact" element={<Contact />} />
       <Route path="/blog" element={<Blog />} />
     </Route>
-  )
+  ),
+  {
+  basename:"/E-commerce-web"
+}
 )
 
 const App = () => {
