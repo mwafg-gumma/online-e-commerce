@@ -23,7 +23,7 @@ const TopSelling = () => {
                     {/* 1 */}
                     <div className="bg-white shadow-md rounded-md mx-2 my-2">
                         <img src={Top} alt="TopSelling" className='w-full transition duration-300 ease-in-out hover:-translate-y-2 ' />
-                        <h2 className='text-2xl font-bold py-2 px-3'>
+                        <h2 className='md:text-2xl text-lg font-bold py-2 px-3'>
                             WOMEN ETHNIC
                         </h2>
                         <h3 className='Text-xl  md:-ml-40  text-gray-500'>
@@ -39,7 +39,7 @@ const TopSelling = () => {
                         {/* 2 */}
                         <div className="bg-white shadow-md rounded-md mx-2 my-2">
                         <img src={Top1} alt="TopSelling" className='w-full transition duration-300 ease-in-out hover:-translate-y-2 ' />
-                        <h2 className='text-2xl font-bold py-2 px-3'>
+                        <h2 className='md:text-2xl text-lg font-bold py-2 px-3'>
                             WOMEN WESTERN
                         </h2>
                         <h3 className='Text-xl md:-ml-40 text-gray-500'>
@@ -55,7 +55,7 @@ const TopSelling = () => {
                             {/* 3 */}
                         <div className="bg-white shadow-md rounded-md mx-2 my-2">
                         <img src={Top3} alt="TopSelling" className='w-full transition duration-300 ease-in-out hover:-translate-y-2 ' />
-                        <h2 className='text-2xl font-bold py-2 px-3 -ml-20'>
+                        <h2 className='text-2xl font-bold py-2 px-3 -ml-24'>
                                 GOGGLES
                         </h2>
                         <h3 className='Text-xl md:-ml-40 text-gray-500'>

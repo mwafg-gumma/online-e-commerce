@@ -34,17 +34,22 @@ const NavBar = () => {
                     </nav>
 
                     {/* Search Bar */}
-                    <div className="relative xl:hidden md:flex items-center">
+                        <div className="relative xl:hidden md:flex items-center">
                         <FaSearch className="absolute left-3 text-gray-500 md:mt-0 mt-3" />
                         <input
                             type="text"
                             placeholder="Search..."
                             className="py-2 pl-8 pr-4 rounded-lg border border-gray-300 focus:outline-none"
                         />
+                        <h2>
+                        </h2>
                     </div>
-                    <NavLink to="/card" className="text-3xl text-gray-700 mx-2" >
+
+                    {/* Card */}
+                        <NavLink to="/card" className="text-3xl text-gray-700 mx-2" >
                         <FaShoppingCart />
                     </NavLink>
+
 
                     {/* Hamburger Menu Icon */}
                     <div className="md:hidden">
