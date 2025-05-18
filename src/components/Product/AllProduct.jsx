@@ -1,5 +1,4 @@
-
-// import {a} from "react-router-dom"
+import {  Link  } from "react-router-dom"
 import { FaFacebookF, FaYoutube, FaTwitter, FaTiktok, FaInstagram, FaAmazon } from "react-icons/fa"
 import back3 from '../../assets/image/back3.png'
 import HeadPhone7 from "../../assets/image/HeadPhone7.png"
@@ -72,13 +71,13 @@ const AllProduct = () => {
                                         🎶
                                     </p>
                                 </div>
-                                <button className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 my-2 '>
-                                    Order Now
-                                </button>
+                                < Link to="/card"  className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 block my-3 text-center '>
+                                    Add to Card
+                                </ Link >
                             </div>
                         </div>
                         {/* 2 */}
-                        <div className="bg-white shadow-xl rounded-xl mx-10 my-2 md:w-60 ">
+                        <div className="bg-white shadow-xl rounded-xl mx-10 my-2 md:w-60  md:ml-5 ">
                             <img src={Playstation} className='w-full hover:transition duration-300 ease-in-out hover:-translate-y-2 cursor-pointer  ' />
                             <div className="px-2">
                                 <h2 className="font-bold text-2xl py-2">
@@ -95,9 +94,9 @@ const AllProduct = () => {
                                         ®️
                                     </p>
                                 </div>
-                                <button className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 my-2 '>
-                                    Order Now
-                                </button>
+                                < Link to="/card" className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 block md:mt-5 my-3 text-center '>
+                                    Add to Card
+                                </ Link >
                             </div>
                         </div>
                         {/* 3 */}
@@ -111,16 +110,16 @@ const AllProduct = () => {
                                     140$
                                 </h3>
                                 <div className="flex flex-row justify-between gap-4 mb-1">
-                                    <h4 className='text-red-600 text-xl'>
+                                    <h4 className='text-red-600 text-lg'>
                                         Not available
                                     </h4>
-                                    <p className='text-white bg-red-600 rounded-lg mx-3 px-2 py-1 ' >
+                                    <p className='text-white bg-red-600 rounded-md mx-3 px-1 py-1 ' >
                                         SALE
                                     </p>
                                 </div>
-                                <button className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 my-2 '>
-                                    Order Now
-                                </button>
+                                < Link to="/card" className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 block my-3 text-center '>
+                                    Add to Card
+                                </ Link >
                             </div>
                         </div>
                         {/* 4 */}
@@ -141,9 +140,9 @@ const AllProduct = () => {
                                         💻
                                     </p>
                                 </div>
-                                <button className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 my-2 '>
-                                    Order Now
-                                </button>
+                                < Link to="/card" className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 block md:mt-5 my-3 text-center '>
+                                    Add to Card
+                                </ Link >
                             </div>
                         </div>
                         {/* 5 */}
@@ -164,9 +163,9 @@ const AllProduct = () => {
                                         🎒
                                     </p>
                                 </div>
-                                <button className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 my-2 '>
-                                    Order Now
-                                </button>
+                                < Link to="/card"  className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 block my-3 text-center '>
+                                    Add to Card
+                                </ Link >
                             </div>
                         </div>
                         {/* 6 */}
@@ -187,9 +186,9 @@ const AllProduct = () => {
                                         👟
                                     </p>
                                 </div>
-                                <button className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 my-2 mt-6 '>
-                                    Order Now
-                                </button>
+                                < Link to="/card" className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 md:mt-7  block my-3 text-center '>
+                                    Add to Card
+                                </ Link >
                             </div>
                         </div>
                         {/* 7   */}
@@ -210,9 +209,9 @@ const AllProduct = () => {
                                         👟
                                     </p>
                                 </div>
-                                <button className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 my-2 '>
-                                    Order Now
-                                </button>
+                                < Link to="/card"  className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 block my-3 text-center '>
+                                    Add to Card
+                                </ Link >
                             </div>
                         </div>
                         {/* 8 */}
@@ -233,9 +232,9 @@ const AllProduct = () => {
                                         🕶️
                                     </p>
                                 </div>
-                                <button className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 my-2 '>
-                                    Order Now
-                                </button>
+                                < Link to="/card"  className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 block my-3 text-center '>
+                                    Add to Card
+                                </ Link >
                             </div>
                         </div>
                         {/* 9 */}
@@ -255,9 +254,9 @@ const AllProduct = () => {
                                     <p className='text-gray-600 mx-3 font-bold' >
                                         🪭                                    </p>
                                 </div>
-                                <button className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 my-2 '>
-                                    Order Now
-                                </button>
+                                < Link to="/card"  className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 block my-3 text-center '>
+                                    Add to Card
+                                </ Link >
                             </div>
                         </div>
                         {/* 10 */}
@@ -278,9 +277,9 @@ const AllProduct = () => {
                                         <del>2000$</del>
                                     </p>
                                 </div>
-                                <button className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 my-2 '>
-                                    Order Now
-                                </button>
+                                < Link to="/card"  className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 block my-3 text-center '>
+                                    Add to Card
+                                </ Link >
                             </div>
                         </div>
                         {/* 11 */}
@@ -301,9 +300,9 @@ const AllProduct = () => {
                                         SEAL
                                     </p>
                                 </div>
-                                <button className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 my-2 '>
-                                    Order Now
-                                </button>
+                                < Link to="/card"  className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 block my-3 text-center'>
+                                    Add to Card
+                                </ Link >
                             </div>
                         </div>
                         {/* 12 */}
@@ -324,9 +323,9 @@ const AllProduct = () => {
                                         ⌚
                                     </p>
                                 </div>
-                                <button className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 my-2 '>
-                                    Order Now
-                                </button>
+                                < Link to="/card"  className='bg-gray-500 hover:bg-gray-400 text-white rounded-md px-4 py-2 block my-3 text-center '>
+                                    Add to Card
+                                </ Link >
                             </div>
                         </div>
                         {/* 13 */}
@@ -355,9 +354,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">110$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card" className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 2 */}
@@ -378,9 +377,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">95$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card" className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 3 */}
@@ -401,9 +400,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">80$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card"  className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 4 */}
@@ -424,9 +423,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">110$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card"  className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 5 */}
@@ -447,9 +446,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">130$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card"  className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 6 */}
@@ -470,9 +469,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">100$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card"  className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 7 */}
@@ -493,9 +492,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">135$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card"  className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 8 */}
@@ -517,9 +516,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">100$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card"  className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 9 */}
@@ -540,9 +539,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">130$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card"  className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 10 */}
@@ -563,9 +562,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">100$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card"  className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 11 */}
@@ -587,9 +586,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">220$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card"  className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 12 */}
@@ -610,9 +609,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">200$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card"  className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 13 */}
@@ -633,9 +632,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">130$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card"  className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 14 */}
@@ -656,9 +655,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">80$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card"  className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 15 */}
@@ -679,9 +678,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">180$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card"  className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 16 */}
@@ -702,9 +701,9 @@ const AllProduct = () => {
                                             <div className="flex items-center justify-between w-full mb-4">
                                                 <span className="text-red-500 text-lg font-bold">210$</span>
                                             </div>
-                                            <button className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
-                                                Order Now
-                                            </button>
+                                            < Link to="/card"  className="mt-auto w-full bg-stone-600 hover:bg-stone-500 text-white font-semibold py-2 rounded-lg shadow transition duration-200">
+                                                Add to Card
+                                            </ Link >
                                         </div>
                                     </div>
                                     {/* 17 */}

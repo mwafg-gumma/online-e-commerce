@@ -1,7 +1,7 @@
 
 
 import cart from '../assets/image/cart.png';
-import { FaSearch, FaBars, FaTimes } from 'react-icons/fa'; // Import icons
+import { FaSearch, FaBars, FaTimes , FaShoppingCart } from 'react-icons/fa'; // Import icons
 import {NavLink} from "react-router-dom"
 import { useState } from 'react';
 const NavBar = () => {
@@ -42,6 +42,9 @@ const NavBar = () => {
                             className="py-2 pl-8 pr-4 rounded-lg border border-gray-300 focus:outline-none"
                         />
                     </div>
+                    <NavLink to="/card" className="text-3xl text-gray-700 mx-2" >
+                        <FaShoppingCart />
+                    </NavLink>
 
                     {/* Hamburger Menu Icon */}
                     <div className="md:hidden">

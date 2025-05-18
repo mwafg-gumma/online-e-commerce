@@ -26,7 +26,7 @@ const TopSelling = () => {
                         <h2 className='text-2xl font-bold py-2 px-3'>
                             WOMEN ETHNIC
                         </h2>
-                        <h3 className='Text-xl -ml-40 text-gray-500'>
+                        <h3 className='Text-xl  md:-ml-40  text-gray-500'>
                             WHITE
                         </h3>
                     <div className="flex flex-row justify-between items-center">
@@ -42,7 +42,7 @@ const TopSelling = () => {
                         <h2 className='text-2xl font-bold py-2 px-3'>
                             WOMEN WESTERN
                         </h2>
-                        <h3 className='Text-xl -ml-40 text-gray-500'>
+                        <h3 className='Text-xl md:-ml-40 text-gray-500'>
                             RED
                         </h3>
                         <div className="flex flex-row justify-between items-center">
@@ -58,7 +58,7 @@ const TopSelling = () => {
                         <h2 className='text-2xl font-bold py-2 px-3 -ml-20'>
                                 GOGGLES
                         </h2>
-                        <h3 className='Text-xl -ml-40 text-gray-500'>
+                        <h3 className='Text-xl md:-ml-40 text-gray-500'>
                             BROWN
                         </h3>
                         <div className="flex flex-row justify-between items-center">
@@ -74,7 +74,7 @@ const TopSelling = () => {
                         <h2 className='text-2xl font-bold py-2 px-3'>
                             FASHIN T-SHIRT
                         </h2>
-                        <h3 className='Text-xl -ml-40 text-gray-500'>
+                        <h3 className='Text-xl md:-ml-40 text-gray-500'>
                             BLACK
                         </h3>
                         <div className="flex flex-row justify-between items-center">

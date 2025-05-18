@@ -28,7 +28,7 @@ const Blog = () => {
                         <div className="flex flex-col justify-center gap-3">
                             <img src={B2} className="w-full " alt="" />
                             <div className="-ml-80 py-4">
-                                <h2 className="text-2xl font-bold md:-ml-24 ml-20 text-gray-800 py-2">
+                                <h2 className="text-2xl font-bold md:ml-24 lg:-ml-24  ml-20  text-gray-800 py-2">
                                     Website One
                                 </h2>
                                 <h3 className="text-lg ml-80">
@@ -53,7 +53,7 @@ const Blog = () => {
                         <div className="flex flex-col justify-center gap-3">
                             <img src={B3} className="w-full " alt="" />
                             <div className="-ml-80 py-4">
-                                <h2 className="text-2xl font-bold md:-ml-24 ml-20 text-gray-800 py-2">
+                                <h2 className="text-2xl font-bold md:ml-24 lg:-ml-24  ml-20 text-gray-800 py-2">
                                     Website One
                                 </h2>
                                 <h3 className="text-lg ml-80">
@@ -76,7 +76,7 @@ const Blog = () => {
                         <div className="flex flex-col justify-center gap-3">
                             <img src={B1} className="w-full " alt="" />
                             <div className="-ml-80 py-4">
-                                <h2 className="text-2xl font-bold md:-ml-24 ml-20 text-gray-800 py-2">
+                                <h2 className="text-2xl font-bold md:ml-24 lg:-ml-24  ml-20 text-gray-800 py-2">
                                     Website One
                                 </h2>
                                 <h3 className="text-lg ml-80">
@@ -100,7 +100,7 @@ const Blog = () => {
                         <div className="flex flex-col justify-center gap-3">
                             <img src={B5} className="w-full " alt="" />
                             <div className="-ml-80 py-4">
-                                <h2 className="text-2xl font-bold md:-ml-24 ml-20 text-gray-800 py-2">
+                                <h2 className="text-2xl font-bold md:ml-24 lg:-ml-24  ml-20 text-gray-800 py-2">
                                     Website One
                                 </h2>
                                 <h3 className="text-lg ml-80">

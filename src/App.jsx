@@ -16,6 +16,7 @@ import MainPage from "./Pages/MainPage"
 import About from "./Links/About"
 import Contact from "./Links/Contact"
 import Blog from "./Links/Blog"
+import Card from "./components/Card"
 
 
 
@@ -27,6 +28,7 @@ const router = createBrowserRouter(
       <Route path="/about" element={<About />} />
       <Route path="/Contact" element={<Contact />} />
       <Route path="/blog" element={<Blog />} />
+      <Route path="/card" element={<Card />} />
     </Route>
   ),
   {
