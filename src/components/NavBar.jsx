@@ -1,7 +1,5 @@
 
-
-import cart from '../assets/image/cart.png';
-import { FaSearch, FaBars, FaTimes , FaShoppingCart } from 'react-icons/fa'; // Import icons
+import { FaSearch, FaBars, FaTimes , FaUser } from 'react-icons/fa'; // Import icons
 import {NavLink} from "react-router-dom"
 import { useState } from 'react';
 const NavBar = () => {
@@ -9,48 +7,27 @@ const NavBar = () => {
 
     return (
         <>
-            <div className="bg-slate-200  ">
-                <div className="flex flex-row justify-between items-center px-4 py-3  ">
+            <div className="bg-gray-50  ">
+                <div className="flex flex-row justify-between items-center px-5 py-3">
                     {/* Logo Section */}
-                    <div className="flex flex-row items-center">
-                        <img src={cart} alt="logo image" className="w-10 h-10" />
-                        <h3 className="text-xl ml-2 hidden md:block">SHOPY</h3>
+                    <div className="md:mx-2 ">
+                        <h3 className="text-xl md:ml-2 font-bold ">SHOPY</h3>
                     </div>
-
-                    {/* Desktop NavLinks */}
-                    <nav className="hidden md:flex flex-row items-center space-x-4">
-                        <NavLink to="/" className={({isActive}) => isActive ? "text-lg hover:text-orange-800 bg-orange-300 rounded-tl-lg px-4 py-2" : "text-lg hover:text-orange-800  rounded-tl-lg px-4 py-2"}>
-                            SHOP
-                        </NavLink>
-                        <NavLink to="/about" className={({isActive}) => isActive ? "text-lg hover:text-orange-800 bg-orange-300 rounded-tl-lg px-4 py-2" : "text-lg hover:text-orange-800  rounded-tl-lg px-4 py-2"}>
-                            ABOUT
-                        </NavLink>
-                        <NavLink to="/contact" className={({isActive}) => isActive ? "text-lg hover:text-orange-800 bg-orange-300 rounded-tl-lg px-4 py-2" : "text-lg hover:text-orange-800  rounded-tl-lg px-4 py-2"}>
-                            CONTACT
-                        </NavLink>
-                        <NavLink to="/blog" className={({isActive}) => isActive ? "text-lg hover:text-orange-800 bg-orange-300 rounded-tl-lg px-4 py-2" : "text-lg hover:text-orange-800  rounded-tl-lg px-4 py-2"}>
-                            BLOG
-                        </NavLink>
-                    </nav>
-
-                    {/* Search Bar */}
-                        <div className="relative xl:hidden md:flex items-center">
-                        <FaSearch className="absolute left-3 text-gray-500 md:mt-0 mt-3" />
-                        <input
-                            type="text"
-                            placeholder="Search..."
-                            className="py-2 pl-8 pr-4 rounded-lg border border-gray-300 focus:outline-none"
-                        />
-                        <h2>
-                        </h2>
-                    </div>
-
-                    {/* Card */}
-                        <NavLink to="/card" className="text-3xl text-gray-700 mx-2" >
-                        <FaShoppingCart />
-                    </NavLink>
-
-
+                    {/* Search Bar */}    
+                <div className="xl:hidden md:flex items-center">
+                    <div className="relative">
+                        <FaSearch className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-300 " />
+                    <input
+                        type="text"
+                        placeholder="Enter Your Products Name"
+                        className="py-2 pl-10 pr-4 rounded-lg border border-gray-200 focus:outline-none md:w-[700px]"
+                    />
+                </div>
+                </div>
+            {/* Card */}
+                <NavLink to="/contact" className="" >
+                <FaUser className='bg-gray-950 text-gray-200 text-3xl p-2 rounded-full hover:bg-gray-200 hover:text-gray-950' />
+            </NavLink>
                     {/* Hamburger Menu Icon */}
                     <div className="md:hidden">
                         {isMenuOpen ? (
@@ -68,22 +45,56 @@ const NavBar = () => {
                 </div>
                 {/* Mobile Menu */}
                 {isMenuOpen && (
-                    <div className="md:hidden bg-white w-full flex flex-col items-center space-y-4 py-4">
-                        <NavLink to="/" className={({isActive}) => isActive ? "text-lg hover:text-orange-800 bg-orange-300 rounded-tl-lg px-4 py-2" :"text-lg hover:text-orange-800  rounded-tl-lg px-4 py-2"}>
-                            SHOP
+                    <div className="md:hidden  w-3/4 flex flex-wrap items-center  mx-20 py-3">
+                            <NavLink to="/" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                            Home
                         </NavLink>
-                        <NavLink to="/about" className={({isActive}) => isActive ? "text-lg hover:text-orange-800 bg-orange-300 rounded-tl-lg px-4 py-2" :"text-lg hover:text-orange-800  rounded-tl-lg px-4 py-2"}>
-                            ABOUT
+                        <NavLink to="/about" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                            About
                         </NavLink>
-                        <NavLink to="/contact" className={({isActive}) => isActive ? "text-lg hover:text-orange-800 bg-orange-300 rounded-tl-lg px-4 py-2" : "text-lg hover:text-orange-800  rounded-tl-lg px-4 py-2"}>
-                            CONTACT
+                        <NavLink to="/" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                            Men
                         </NavLink>
-                        <NavLink to="/blog" className={({isActive}) => isActive ? "text-lg hover:text-orange-800 bg-orange-300 rounded-tl-lg px-4 py-2" : "text-lg hover:text-orange-800  rounded-tl-lg px-4 py-2"}>
-                            BLOG
+                        <NavLink to="/" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                            Women
+                        </NavLink>
+                        <NavLink to="/" className={({isActive}) => isActive ? " mx-3 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                            Jewelry
+                        </NavLink>
+                        <NavLink to="/" className={({isActive}) => isActive ? " mx-3 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                            Services
+                        </NavLink> 
+                        <NavLink to="/blog" className={({isActive}) => isActive ? " mx-2 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                            Blog
                         </NavLink>
                     </div>
                 )}
             </div>
+            {/* navbar */}
+                   {/*  NavLinks */}
+                    <nav className="hidden md:flex flex-row items-center justify-center  mt-5 ">
+                        <NavLink to="/" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                            Home
+                        </NavLink>
+                        <NavLink to="/about" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                            About
+                        </NavLink>
+                        <NavLink to="/" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                            Men
+                        </NavLink>
+                        <NavLink to="/" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                            Women
+                        </NavLink>
+                        <NavLink to="/" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                            Jewelry
+                        </NavLink>
+                        <NavLink to="/" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                            Services
+                        </NavLink>
+                        <NavLink to="/blog" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                            Blog
+                        </NavLink>
+                    </nav> 
         </>
     );
 };

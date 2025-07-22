@@ -1,10 +1,10 @@
 
 import { 
-  Route,
+  Router,
   createBrowserRouter,
   createRoutesFromElements,
   RouterProvider,
-  Router
+  Route,
   } from "react-router-dom"
 import HomePage from './components/Home/HomePage'
 import NavBar from './components/NavBar'
@@ -17,6 +17,7 @@ import About from "./Links/About"
 import Contact from "./Links/Contact"
 import Blog from "./Links/Blog"
 import Card from "./components/Card"
+
 
 
 

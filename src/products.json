@@ -1,0 +1,371 @@
+[
+    {
+        "id": 1,
+        "name": "Casual Neck",
+        "discount": "10%",
+        "description": "Almost sold out!",
+        "price": "$7.2",
+        "category": "2.7k+ sold",
+        "image": "./image/tshirt1.png"
+    },
+    {
+        "id": 2,
+        "name": "Fashionable",
+        "discount": "10%",
+        "description": "Almost sold out!",
+        "price": "$10",
+        "category": "5.1k+ sold",
+        "image": "./image/tshirt2.png"
+    },
+    {
+        "id": 3,
+        "name": "Manfinity Homme",
+        "discount": "20%",
+        "description": "in Spring Sale",
+        "price": "$8.2",
+        "category": "3.2k+ sold",
+        "image": "./image/tshirt10.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Casual Men's",
+        "discount": "6%",
+        "description": "Almost sold out!",
+        "price": "$11.1",
+        "category": "5.1k+ sold",
+        "image": "./image/tshirt9.png"
+    },
+    {
+        "id": 5,
+        "name": "Real Madrid",
+        "discount": "10%",
+        "description": "Almost sold out!",
+        "price": "$8.2",
+        "category": "8.2k+ sold",
+        "image": "./image/tshirt5.png"
+    } ,
+    {
+        "id": 6,
+        "name": "Boyfriend letter Printed",
+        "discount": "7%",
+        "description": "60+ User repurchased",
+        "price": "$10.2",
+        "category": "2.9k+ sold",
+        "image": "./image/tshirt7.png"
+    } ,
+    {
+        "id": 7,
+        "name": "Boyfriend style Mens's",
+        "discount": "36%",
+        "description": "Almost sold out!",
+        "price": "$11.2",
+        "category": "6.2k+ sold",
+        "image": "./image/tshirt14.png"
+    } ,
+    {
+        "id": 8,
+        "name": "Men's Summer Gothic",
+        "discount": "19%",
+        "description": "60+ User repurchased",
+        "price": "$11.2",
+        "category": "3.2k+ sold",
+        "image": "./image/tshirt15.jpg"
+    } ,
+    {
+        "id": 9,
+        "name": "Manfinity LEGND Men ",
+        "discount": "28%",
+        "description": "Almost sold out!",
+        "price": "$20.0",
+        "category": "500k+ sold",
+        "image": "./image/tshirt12.png"
+    } ,
+    {
+        "id": 10,
+        "name": "Spring  Autumn Casual ",
+        "discount": "18%",
+        "description": "in Business",
+        "price": "$300.12",
+        "category": "3.2k+ sold",
+        "image": "./image/tshirt13.png"
+    } ,
+    {
+        "id": 11,
+        "name": "INAWLY Solva",
+        "discount": "19%",
+        "description": "in women Max...",
+        "price": "$9.2",
+        "category": "3.2k+ sold",
+        "image": "./image/dress1.png"
+    } ,
+    {
+        "id": 12,
+        "name": "Firerie Women's Solid",
+        "discount": "28%",
+        "description": "Almost sold out!",
+        "price": "$10.67",
+        "category": "300+ sold",
+        "image": "./image/dress2.png"
+    } ,
+    {
+        "id": 13,
+        "name": "Girls' Textured Floral ",
+        "discount": "39%",
+        "description": "Almost sold out!",
+        "price": "$9.1",
+        "category": "200k+ sold",
+        "image": "./image/dress4.png"
+    } ,
+    {
+        "id": 14,
+        "name": "BamGleam Women's  ",
+        "discount": "41%",
+        "description": "Almost sold out!",
+        "price": "$6.2",
+        "category": "3.2k+ sold",
+        "image": "./image/tshirt4.png"
+    } ,
+    {
+        "id": 15,
+        "name": " Striped Short Sleeve",
+        "discount": "50%",
+        "description": "Only 8 Left",
+        "price": "$12.28",
+        "category": "70k+ sold",
+        "image": "./image/tshirt3.png"
+    } ,
+    {
+        "id": 16,
+        "name": "BamGleam Women ",
+        "discount": "45%",
+        "description": "Almost sold out!",
+        "price": "$9.0.1",
+        "category": "3.2k+ sold  "   ,
+        "image": "./image/dress3.jpg"
+    } ,
+    {
+        "id": 17,
+        "name": " Sleeveless Summer",
+        "discount": "28%",
+        "description": "Almost sold out!",
+        "price": "$11.51",
+        "category": "100k+ sold  ", 
+        "image": "./image/dress5.png"
+    } ,
+    {
+        "id": 18,
+        "name": "Manfinity Bizformal",
+        "discount": "39%",
+        "description": "60+ User repurchased",
+        "price": "$12.2",
+        "category": "1.1k+ sold ",
+        "image": "./image/pants1.png"
+    } ,
+    {
+        "id": 19,
+        "name": "Manfinity EMRG Men's",
+        "discount": "8%",
+        "description": "Almost sold out!",
+        "price": "$15.69",
+        "category": "1.7k+ sold ",       
+        "image": "./image/pants2.png"
+    } ,
+    {
+        "id": 20,
+        "name": "Manfinity Homme",
+        "discount": "12%",
+        "description": "Almost sold out!",
+        "price": "$13.1",
+        "category": "500+ sold ",
+        "image": "./image/pants3.png"
+    } ,
+    {
+        "id": 21,
+        "name":"Spring & Autumn",
+        "discount": "19%",
+        "description": "Almost sold out!",
+        "price": "$18.2",
+        "category": "1.0k+ sold ",
+        "image": "./image/pants4.png"
+    } ,
+    {
+        "id": 22,
+        "name": "Men's Slim-fit",
+        "discount": "11%",
+        "description": "Almost sold out!",
+        "price": "$19.2",
+        "category": "100+ sold",
+        "image": "./image/pants5.png"
+    } ,
+    {
+        "id": 23,
+        "name": "Men's Solid Color",
+        "discount": "19%",
+        "description": "Almost sold out!",
+        "price": "$24.09",
+        "category": "900+ sold ",
+        "image": "./image/pants6.png"
+    } ,
+    {
+        "id": 24,
+        "name": "Manfinty Hypemode",
+        "discount": "37%",
+        "description": "Almost sold out!",
+        "price": "$20.37",
+        "category": "500k+ sold ",
+        "image": "./image/pants7.png"
+    } ,
+    {
+        "id": 25,
+        "name": "Manfinity Hypemode",
+        "discount": "8%",
+        "description": "Almost sold out!",
+        "price": "$13.89",
+        "category": "1.2k+ sold  ", 
+        "image": "./image/pants8.jpg"
+    } ,
+    {
+        "id": 26,
+        "name": "Men's Random Print",
+        "discount": "32%",
+        "description": "Almost sold out!",
+        "price": "$16.00",
+        "category": "300k+ sold ", 
+        "image": "./image/shoes1.jpeg"
+    } ,
+    {
+        "id": 27,
+        "name": "New Casual",
+        "discount": "18%",
+        "description": "Almost sold out!",
+        "price": "$24.01",
+        "category": "100k+ sold",
+        "image": "./image/shoes2.png"
+    } ,
+    {
+        "id": 28,
+        "name": "Summer Breatha",
+        "discount": "12%",
+        "description": "in Spring/Sum",
+        "price": "$20.2",
+        "category": "3.2k+ sold ",  
+        "image": "./image/shoes3.png"
+    } ,
+    {
+        "id": 29,
+        "name": "white Sneakers",
+        "discount": "45%",
+        "description": "Almost sold out!",
+        "price": "$15.2",
+        "category": "300k+ sold ",
+        "image": "./image/shoes4.png"
+    } ,
+    {
+        "id": 30,
+        "name": "Men's Low-Top Breath",
+        "discount": "23%",
+        "description": "Almost sold out!",
+        "price": "$8.2",
+        "category": "3.2k+ sold ",
+        "image": "./image/shoes5.png"
+    } ,
+    {
+        "id": 31,
+        "name": "Casual Sneakers",
+        "discount": "25%",
+        "description": "Almost sold out!",
+        "price": "$18.2",
+        "category": "3.2k+ sold ",
+        "image": "./image/shoes6.jpg"
+    } ,
+    {
+        "id": 32,
+        "name": "Navy White",
+        "discount": "29%",
+        "description": "Almost sold out!",
+        "price": "$23.1",
+        "category": "3.2k+ sold ",
+        "image": "./image/shoes7.png"
+    } ,
+    {
+        "id": 33,
+        "name": "Cooling Pad",
+        "discount": "25%",
+        "description": "Almost sold out!",
+        "price": "$8.2",
+        "category": "QuickShip ",
+        "image": "./image/fan.png"
+    } ,
+    {
+        "id": 34,
+        "name": "Iphone 14 pro",
+        "discount": "12%",
+        "description": "Almost sold out!",
+        "price": "$400.2",
+        "category": "QuickShip ",
+        "image": "./image/phone1.png"
+    } ,
+    {
+        "id": 35,
+        "name": "Apple IPad",
+        "discount": "47%",
+        "description": "Almost sold out!",
+        "price": "$105.2",
+        "category": "QuickShip ",
+        "image": "./image/phone.png"
+    } ,
+    {
+        "id": 36,
+        "name": "Smart Watch",
+        "discount": "84%",
+        "description": "Almost sold out!",
+        "price": "$15.1",
+        "category": "QuickShip ",  
+        "image": "./image/watch.png"
+    } ,
+    {
+        "id": 37,
+        "name": "Fashionable",
+        "discount": "24%",
+        "description": "Almost sold out!",
+        "price": "$1.2",
+        "category": "3.2k+ sold ",
+        "image": "./image/jewels1.png"
+    } ,
+    {
+        "id": 38,
+        "name": "alloy men",
+        "discount": "10%",
+        "description": "Almost sold out!",
+        "price": "$1.57",
+        "category": "3.2k+ sold  ",
+        "image": "./image/jewels2.png"
+    } ,
+    {
+        "id": 39,
+        "name": "Men Minimalist Ring",
+        "discount": "2%",
+        "description": "Almost sold out!",
+        "price": "$1.26",
+        "category": "3.2k+ sold  ",
+        "image": "./image/jewels3.jpg"
+    } ,
+    {
+        "id": 40,
+        "name": "Men's Stainless",
+        "discount": "15%",
+        "description": "Almost sold out!",
+        "price": "$1.52",
+        "category": "3.2k+ sold  ", 
+        "image": "./image/jewels4.png"
+    } ,
+    {
+        "id": 41,
+        "name": "Set Women Jewelry",
+        "discount": "26%",
+        "description": "Almost sold out!",
+        "price": "$5.2",
+        "category": "3.2k+ sold ",
+        "image": "./image/jewels5.png"
+    } 
+]
