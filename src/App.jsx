@@ -17,6 +17,7 @@ import About from "./Links/About"
 import Contact from "./Links/Contact"
 import Blog from "./Links/Blog"
 import Card from "./components/Card"
+import Services from "./Links/Services"
 
 
 
@@ -30,6 +31,7 @@ const router = createBrowserRouter(
       <Route path="/Contact" element={<Contact />} />
       <Route path="/blog" element={<Blog />} />
       <Route path="/card" element={<Card />} />
+      <Route path="/services" element={<Services />} />
     </Route>
   ),
   {

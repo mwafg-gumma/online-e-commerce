@@ -88,7 +88,7 @@ const NavBar = () => {
                         <NavLink to="/" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
                             Jewelry
                         </NavLink>
-                        <NavLink to="/" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
+                        <NavLink to="/services" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>
                             Services
                         </NavLink>
                         <NavLink to="/blog" className={({isActive}) => isActive ? " mx-1 text-gray-950 hover:text-gray-600 px-3 py-1" : " hover:text-gray-800  rounded-tl-lg px-3 py-1"}>

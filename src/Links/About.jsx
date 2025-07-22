@@ -10,14 +10,6 @@ const About = () => {
         <>
         <section >
             <div className=" text-center ">
-            <div className="bg-slate-100 ">
-                <h1 className="text-3xl font-bold text-gray-800  pt-10 py-7">
-                    WHAT DO YOU ABOUT OUSHOPY 🛍️ 
-                </h1>
-                <h2 className="text-lg pb-10 ">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur earum libero <br />  fuga. Sunt quam perspiciatis nam, sorem.
-                </h2>
-            </div>
                 <div className="flex flex-col md:flex-row justify-between items-center gap-5 mx-7 my-10">
                     {/* description */}
                     <div className="mx-4  ">
@@ -115,18 +107,18 @@ const About = () => {
 
         <div className="flex flex-row justify-center apg-5 mt-20 md:-ml-20 mb-7">
             <div className="mx-3">
-                <h1 className="bg-slate-100 rounded-md px-4 text-xl py-2 mx-2 cursor-pointer">Pre</h1>
+                <h1 className="bg-slate-100 rounded-md px-3 text-lg py-1 mx-2 cursor-pointer">Pre</h1>
             </div>
             <div>
                 <ul className="flex flex-row">
-                <li className="bg-orange-400 rounded-xl py-2 px-4 text-xl text-gray-600">1</li>
-                <li className="mx-4 text-2xl text-gray-500 pt-1 ">2</li>
-                <li className="mx-4 text-2xl text-gray-500 pt-1 ">3</li>
-                <li className="mx-4 text-2xl text-gray-500 pt-1 ">4</li>
+                <li className="bg-orange-300 rounded-md py-1 px-3 text-sm text-gray-600">1</li>
+                <li className="mx-4 text-sm text-gray-500 pt-1 ">2</li>
+                <li className="mx-4 text-sm text-gray-500 pt-1 ">3</li>
+                <li className="mx-4 text-sm text-gray-500 pt-1 ">4</li>
             </ul>
             </div>
             <div className="mx-5 cursor-pointer">
-                <h1 className="bg-slate-200 rounded-md px-4 text-xl py-2">Next</h1>
+                <h1 className="bg-slate-100 rounded-md px-3 text-lg py-1">Next</h1>
             </div>
         </div>
 
@@ -136,3 +128,4 @@ const About = () => {
 }
 
 export default About
+
