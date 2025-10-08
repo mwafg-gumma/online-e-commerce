@@ -1,48 +1,37 @@
-// call Image from assets
-import background3 from '../../assets/image/background3.png';
-// import background from '../../assets/image/background.png';
-// import background4 from '../../assets/image/background4.png';
 
-const HomePage = () => {
-    return (
-        <>
-        <section className=" bgwhite">
-            <div className="flex flex-col md:flex-row justify-between items-center px-3 mx-1 md:mt-14 ">
-                {/* Description */}
-                <div className="md:mt-0 mt-10 mx-14 ">
-                    <h3 className='font-bold md:text-4xl text-lg md:py-2'>
-                        Trending Accessories
-                    </h3>
-                    <h3 className='md:mb-2 text2xl my-2 font-semibold text-gray-800'>
-                        MODERN STYLE FOR EVERYONE
-                    </h3>
-                    <div >
-                        <p className="text-gray-500 font-light w-[400px]  text-sm mb-2">
-                            Your online shop for quality Product Category Easy shopping, great finds
-                        </p>
-                        <h4 className='mb-4'>
-                            starting at <span className='text-xl font-bold text-gray-800'>$10.00</span>
-                        </h4>
-                    </div>
-                    <a href="/explore" className=' mt-3 hover:bg-gray-700 bg-gray-900 rounded-lg py-2 px-4 text-white text-gl'>
-                        Shop Now
-                    </a>
-                    <span class="relative flex size-2 -mt-8">
-                    <span class="absolute inline-flex h-full w-full animate-ping rounded-full bg-gray-400 opacity-75"></span>
-                    <span class="relative inline-flex size-2 rounded-full bg-gray-200"></span>
-                    </span>
-                </div>
-                {/* image */}
-                <div className="mt-10 mx-14 hidden md:block">
-                    <div className='bg-gray-100 rounded-full md:w-[300px] md:h-[230px] '>
-                        <img src={background3} alt="Home Image" className='w-full ml-10' />
-                        </div>
-                </div>
-            </div>
-        </section>
+// import hero1 from '../../assets/image/hero1.png';
 
-        </>
-    )
-}
 
-export default HomePage
+// import React from 'react';
+
+// const Hero = () => {
+//   return (
+    // (bg-white) 
+    // <div className="relative w-full min-h-[500px] flex items-center justify-center bg-white overflow-hidden">
+    //   <div className="relative max-w-7xl mx-auto flex flex-col lg:flex-row items-center justify-between p-8 z-10">
+    //     {/* 2. جزء الصورة (Image Section) */}
+    //     <div className="relative flex-1 flex justify-center items-center lg:justify-end min-h-[400px]">
+    //       {/* الخلفية الرمادية (bg-gray-500) تبقى كما هي تحت الصورة فقط */}
+    //       <div className="absolute inset-0 bg-gray-500 rounded-lg transform rotate-[-5deg] scale-105 z-0" style={{
+    //         width: '90%', 
+    //         height: '95%',
+    //         left: '5%',
+    //         top: '2.5%'
+    //       }}></div>
+          
+    //       {/* الصورة نفسها */}
+    //       <img 
+    //         src={hero1} 
+    //         alt="Fashion model" 
+    //         className="relative w-full max-w-sm md:max-w-md h-auto object-cover rounded-lg shadow-xl z-10"
+    //         style={{ 
+    //           borderRadius: '10px' 
+    //         }}
+    //       />
+    //     </div>
+    //   </div>
+    // </div>
+//   )
+// };
+
+// export default Hero;

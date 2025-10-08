@@ -1,7 +1,7 @@
-import Cash from "../assets/image/Cash.png"
-import main1 from "../assets/image/main1.png"
-import main2 from "../assets/image/main2.png"
-import main3 from "../assets/image/main3.png"
+// import Cash from "../assets/image/Cash.png"
+// import main1 from "../assets/image/main1.png"
+// import main2 from "../assets/image/main2.png"
+// import main3 from "../assets/image/main3.png"
 import { Link } from 'react-router-dom'
 
 
@@ -41,7 +41,7 @@ const About = () => {
                         </div>
                     </div>
                     {/* image */}
-                    <img src={Cash} className=" md:w-1/3 " alt="" />
+                    {/* <img src={Cash} className=" md:w-1/3 " alt="" /> */}
                 </div>
 
                 <h1 className="text-4xl font-bold my-10">
@@ -53,7 +53,7 @@ const About = () => {
             <div className="flex flex-col gap-3 justify-center mt-5 mx-2 md:mx-20 lg:mx-60">
             {/* 1 */}
             <div className="bg-white shadow-lg rounded-md my-3 flex flex-col md:flex-row items-center justify-center w-full transition duration-300 ease-in-out hover:-translate-y-2">
-                <img src={main1} className="w-32 md:w-40 mx-3 my-3" />
+                {/* <img src={main1} className="w-32 md:w-40 mx-3 my-3" /> */}
                 <div className="flex flex-col gap-4 mx-3 items-center text-center md:text-left">
                     <h1 className="text-2xl md:text-3xl font-bold my-2">Online SHOP</h1>
                     <p className="text-base md:text-lg my-1 text-gray-700 w-full">
@@ -70,7 +70,7 @@ const About = () => {
             </div>
             {/* 2 */}
             <div className="bg-white shadow-lg rounded-md my-3 flex flex-col md:flex-row items-center justify-center w-full transition duration-300 ease-in-out hover:-translate-y-2">
-                <img src={main2} className="w-32 md:w-40 mx-3 my-3" />
+                {/* <img src={main2} className="w-32 md:w-40 mx-3 my-3" /> */}
                 <div className="flex flex-col gap-4 mx-3 items-center text-center md:text-left">
                     <h1 className="text-2xl md:text-3xl font-bold my-2">Store</h1>
                     <p className="text-base md:text-lg my-1 text-gray-700 w-full">
@@ -87,7 +87,7 @@ const About = () => {
             </div>
             {/* 3 */}
             <div className="bg-white shadow-lg rounded-md my-3 flex flex-col md:flex-row items-center justify-center w-full transition duration-300 ease-in-out hover:-translate-y-2">
-                <img src={main3} className="w-32 md:w-40 mx-3 my-3" />
+                {/* <img src={main3} className="w-32 md:w-40 mx-3 my-3" /> */}
                 <div className="flex flex-col gap-4 mx-3 items-center text-center md:text-left">
                     <h1 className="text-2xl md:text-3xl font-bold my-2">Order Now</h1>
                     <p className="text-base md:text-lg my-1 text-gray-700 w-full">
