@@ -134,7 +134,8 @@
 import { NavLink } from "react-router-dom"
 import products from "../../products.json"
 import { FaShoppingCart, FaRegHeart } from "react-icons/fa"
-import Footer from "../../Footer"
+// import { FaRegHeart, FaShoppingCart, FaStar, FaRegStar, FaTruck } from 'react-icons/fa';
+
 
 const AllProduct = () => {
     
@@ -171,10 +172,12 @@ const AllProduct = () => {
             </div>
             <aside>
                 {/* Responsive Grid Layout */}
-                <section className="grid grid-cols-2 xs:grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6">
+
+
+         <section className="grid grid-cols-2 xs:grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6">
                     {products.map((product, index) => (
                         // Product Card Container
-                        <div key={index} className="relative w-full bg-white shadow-md hover:shadow-xl transition-shadow duration-300 ease-in-out rounded-lg overflow-hidden">
+                        <div key={index} className="relative w-full bg-gray-50 shadow-md hover:shadow-xl transition-shadow duration-300 ease-in-out rounded-lg overflow-hidden">
                             
                             {/* Link wrapped around image for good UX */}
                             <NavLink to={`/product/${product.id}`}>
@@ -252,11 +255,14 @@ const AllProduct = () => {
                         </div>
                     ))}
                 </section>
+
+
             </aside>
         </section>
-        <Footer />
     </>
     )
 }
 
 export default AllProduct
+
+

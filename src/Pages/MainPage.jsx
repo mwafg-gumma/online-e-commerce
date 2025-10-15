@@ -5,6 +5,8 @@ import Hero from '../components/Product/Hero'
 import AllProduct from '../components/Product/AllProduct'
 import DealsSection from '../components/Product/DealsSection'
 import PromoBannersSection from '../components/Product/PromoBannersSection '
+import TestimonialsPage from "../components/Product/Testimonials Page"
+import Footer from '../Footer'
 
 
 const MainPage = () => {
@@ -15,6 +17,8 @@ const MainPage = () => {
         <DealsSection  />
         <PromoBannersSection />
         <AllProduct />
+        <TestimonialsPage />
+        <Footer />
         
     </>
     )

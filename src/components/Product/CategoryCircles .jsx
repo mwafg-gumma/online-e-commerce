@@ -9,7 +9,7 @@ import Jewelry from '../../assets/image/Jewelry.jpeg';
 import Kids from '../../assets/image/Kids.jpeg';
 import shoes from '../../assets/image/shoes.jpeg';
 import sport from '../../assets/image/sport.jpeg';
-import watch from '../../assets/image/watch.jpeg';
+// import watch from '../../assets/image/watch.jpeg';
 import women from '../../assets/image/women.jpeg';
 
 
@@ -23,7 +23,7 @@ const categoriesData = [
     { title: "Jewelry", imgUrl: Jewelry, link: "/shop/men" },
     { title: "shoes", imgUrl: shoes, link: "/shop/men" },
     { title: "sport", imgUrl: sport, link: "/shop/men" },
-    { title: "watch", imgUrl: watch, link: "/shop/men" },
+    // { title: "watch", imgUrl: watch, link: "/shop/men" },
 ];
 
 // مكون يمثل الدائرة الواحدة (الصورة + الرابط)

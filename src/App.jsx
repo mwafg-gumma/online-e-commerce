@@ -39,7 +39,7 @@ const router = createBrowserRouter(
     </Route>
   ),
   {
-  basename:"/E-commerce-web"
+  
 }
 )
 

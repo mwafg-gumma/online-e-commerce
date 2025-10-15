@@ -10,8 +10,12 @@ const ProductDetailPage = () => {
     // 1. Get the ID from the URL
     const { id } = useParams();
 
+    console.log(id)
+
     // 2. Find the corresponding product
-    const product = products.find(p => p.id === id);
+    const product = products.find(p => p.id === Number (id));
+
+    console.log(products)
 
     if (!product) {
         return (
