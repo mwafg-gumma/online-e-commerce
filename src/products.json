@@ -13,7 +13,7 @@
       "Bluetooth 5.3 & Lossless Audio Support",
       "Includes hardshell carrying case"
     ],
-    "image": "image/men3.jpeg"
+    "image": "../image/men3.jpeg"
   },
     {
     "id": 2,
@@ -28,7 +28,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/men4.jpeg"
+    "image": "../image/men4.jpeg"
     },
     {
     "id": 3,
@@ -43,7 +43,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/tshirt10.jpg"
+    "image": "../image/tshirt10.jpg"
     },
     {
     "id": 4,
@@ -58,7 +58,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/tshirt9.png"
+    "image": "../image/tshirt9.png"
     },
     {
     "id": 5,
@@ -73,7 +73,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women3.jpeg"
+    "image": "../image/women3.jpeg"
     } ,
     {
     "id": 6,
@@ -88,7 +88,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women5.jpeg"
+    "image": "../image/women5.jpeg"
     } ,
     {
     "id": 7,
@@ -103,7 +103,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport3.jpeg"
+    "image": "../image/sport3.jpeg"
     } ,
     {
     "id": 8,
@@ -118,7 +118,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids5.jpeg"
+    "image": "../image/kids5.jpeg"
     } ,
     {
     "id": 9,
@@ -133,7 +133,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/tshirt12.png"
+    "image": "../image/tshirt12.png"
     } ,
     {
     "id": 10,
@@ -148,7 +148,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids1.jpeg"
+    "image": "../image/kids1.jpeg"
     } ,
     {
     "id": 11,
@@ -163,7 +163,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids2.jpeg"
+    "image": "../image/kids2.jpeg"
     } ,
     {
     "id": 12,
@@ -178,7 +178,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/dress2.png"
+    "image": "../image/dress2.png"
     } ,
     {
     "id": 13,
@@ -193,7 +193,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids4.jpeg"
+    "image": "../image/kids4.jpeg"
     } ,
     {
     "id": 14,
@@ -208,7 +208,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/tshirt4.png"
+    "image": "../image/tshirt4.png"
     } ,
     {
     "id": 15,
@@ -223,7 +223,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/tshirt3.png"
+    "image": "../image/tshirt3.png"
     } ,
     {
     "id": 16,
@@ -238,7 +238,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids8.jpeg"
+    "image": "../image/kids8.jpeg"
     } ,
     {
     "id": 17,
@@ -253,7 +253,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ] , 
-    "image": "./image/men1.jpeg"
+    "image": "../image/men1.jpeg"
     } ,
     {
     "id": 18,
@@ -267,7 +267,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/men2.jpeg"
+    "image": "../image/men2.jpeg"
     } ,
     {
     "id": 19,
@@ -282,7 +282,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],       
-    "image": "./image/men4.jpeg"
+    "image": "../image/men4.jpeg"
     } ,
     {
     "id": 20,
@@ -297,7 +297,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/men5.jpeg"
+    "image": "../image/men5.jpeg"
     } ,
     {
     "id": 21,
@@ -312,7 +312,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/men6.jpeg"
+    "image": "../image/men6.jpeg"
     } ,
     {
     "id": 22,
@@ -327,7 +327,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/men16.jpeg"
+    "image": "../image/men16.jpeg"
     } ,
     {
     "id": 23,
@@ -342,7 +342,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/men17.jpeg"
+    "image": "../image/men17.jpeg"
     } ,
     {
     
@@ -358,7 +358,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/men18.jpeg"
+    "image": "../image/men18.jpeg"
     } ,
     {
     "id": 25,
@@ -373,7 +373,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ] , 
-    "image": "./image/men19.jpeg"
+    "image": "../image/men19.jpeg"
     } ,
     {
     "id": 26,
@@ -388,7 +388,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ], 
-    "image": "./image/men20.jpeg"
+    "image": "../image/men20.jpeg"
     } ,
     {
     "id": 27,
@@ -403,7 +403,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/men7.jpeg"
+    "image": "../image/men7.jpeg"
     } ,
     {
     "id": 28,
@@ -417,7 +417,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],  
-    "image": "./image/men9.png"
+    "image": "../image/men9.png"
     } ,
     {
     "id": 29,
@@ -432,7 +432,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/men11.png"
+    "image": "../image/men11.png"
     } ,
     {
     "id": 30,
@@ -447,7 +447,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/men12.png"
+    "image": "../image/men12.png"
     } ,
     {
     "id": 31,
@@ -462,7 +462,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/men14.jpg"
+    "image": "../image/men14.jpg"
     } ,
     {
     "id": 32,
@@ -477,7 +477,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/men13.png"
+    "image": "../image/men13.png"
     } ,
     {
     "id": 33,
@@ -492,7 +492,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women2.jpeg"
+    "image": "../image/women2.jpeg"
     } ,
     {
     "id": 34,
@@ -507,7 +507,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women3.jpeg"
+    "image": "../image/women3.jpeg"
     } ,
     {
     "id": 35,
@@ -522,7 +522,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women4.jpeg"
+    "image": "../image/women4.jpeg"
     } ,
     {
     "id": 36,
@@ -537,7 +537,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],  
-    "image": "./image/women6.jpeg"
+    "image": "../image/women6.jpeg"
     } ,
     {
     "id": 37,
@@ -552,7 +552,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women5.jpeg"
+    "image": "../image/women5.jpeg"
     } ,
     {
     "id": 38,
@@ -568,7 +568,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ] ,
-    "image": "./image/women7.jpeg"
+    "image": "../image/women7.jpeg"
     } ,
     {
     "id": 39,
@@ -583,7 +583,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ] ,
-    "image": "./image/women8.jpeg"
+    "image": "../image/women8.jpeg"
     } ,
     {
     "id": 40,
@@ -598,7 +598,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ] , 
-    "image": "./image/women9.jpeg"
+    "image": "../image/women9.jpeg"
     } ,
     {
     "id": 41,
@@ -613,7 +613,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women10.jpeg"
+    "image": "../image/women10.jpeg"
     } ,
     {
     "id": 42,
@@ -628,7 +628,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women12.jpeg"
+    "image": "../image/women12.jpeg"
     } ,
     {
     "id": 43,
@@ -643,7 +643,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women13.jpeg"
+    "image": "../image/women13.jpeg"
     } ,
     {
     "id": 44,
@@ -658,7 +658,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women14.jpeg"
+    "image": "../image/women14.jpeg"
     } ,
     {
     "id": 45,
@@ -673,7 +673,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women15.jpeg"
+    "image": "../image/women15.jpeg"
     } ,
     {
     "id": 46,
@@ -688,7 +688,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women16.jpeg"
+    "image": "../image/women16.jpeg"
     } ,
     {
     "id": 47,
@@ -703,7 +703,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women17.jpeg"
+    "image": "../image/women17.jpeg"
     } ,
     {
     "id": 48,
@@ -718,7 +718,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women18.jpeg"
+    "image": "../image/women18.jpeg"
     } ,
     {
     "id": 49,
@@ -733,7 +733,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women19.jpeg"
+    "image": "../image/women19.jpeg"
     } ,
     {
     "id": 50,
@@ -748,7 +748,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women20.jpeg"
+    "image": "../image/women20.jpeg"
     } ,
     {
     "id": 51,
@@ -763,7 +763,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/women118.jpeg"
+    "image": "../image/women118.jpeg"
     } ,
     {
     "id": 52,
@@ -778,7 +778,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/dress1.png"
+    "image": "../image/dress1.png"
     } ,
     {
     "id": 53,
@@ -793,7 +793,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ] ,
-    "image": "./image/kids1.jpeg"
+    "image": "../image/kids1.jpeg"
     } ,
     {
     "id": 54,
@@ -808,7 +808,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids2.jpeg"
+    "image": "../image/kids2.jpeg"
     } ,
     {
     "id": 55,
@@ -823,7 +823,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids3.jpeg"
+    "image": "../image/kids3.jpeg"
     } ,
     {
     "id": 56,
@@ -838,7 +838,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids4.jpeg"
+    "image": "../image/kids4.jpeg"
     } ,
     {
     "id": 57,
@@ -853,7 +853,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids5.jpeg"
+    "image": "../image/kids5.jpeg"
     } ,
     {
     "id": 58,
@@ -868,7 +868,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids6.jpeg"
+    "image": "../image/kids6.jpeg"
     } ,
     {
     "id": 59,
@@ -883,7 +883,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids7.jpeg"
+    "image": "../image/kids7.jpeg"
     } ,
     {
     "id": 60,
@@ -898,7 +898,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids9.jpeg"
+    "image": "../image/kids9.jpeg"
     } ,
     {
     "id": 61,
@@ -913,7 +913,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids8.jpeg"
+    "image": "../image/kids8.jpeg"
     } ,
     {
     "id": 62,
@@ -928,7 +928,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids10.jpeg"
+    "image": "../image/kids10.jpeg"
     } ,
     {
     "id": 62,
@@ -943,7 +943,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/kids11.jpeg"
+    "image": "../image/kids11.jpeg"
     } ,
     {
     "id": 63,
@@ -958,7 +958,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Kids12.jpeg"
+    "image": "../image/Kids12.jpeg"
     } ,
     {
     "id": 64,
@@ -973,7 +973,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Kids13.jpeg"
+    "image": "../image/Kids13.jpeg"
     } ,
     {
     "id": 65,
@@ -988,7 +988,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Kids14.jpeg"
+    "image": "../image/Kids14.jpeg"
     } ,
     {
     "id": 66,
@@ -1003,7 +1003,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Kids15.jpeg"
+    "image": "../image/Kids15.jpeg"
     } ,
     {
     "id": 67,
@@ -1018,7 +1018,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Kids16.jpeg"
+    "image": "../image/Kids16.jpeg"
     } ,
     {
     "id": 68,
@@ -1033,7 +1033,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Kids17.jpeg"
+    "image": "../image/Kids17.jpeg"
     } ,
     {
     "id": 69,
@@ -1048,7 +1048,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Kids19.jpeg"
+    "image": "../image/Kids19.jpeg"
     } ,
     {
     "id": 70,
@@ -1063,7 +1063,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Kids18.jpeg"
+    "image": "../image/Kids18.jpeg"
     } ,
     {
     "id": 71,
@@ -1078,7 +1078,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Kids20.jpeg"
+    "image": "../image/Kids20.jpeg"
     } ,
     {
     "id": 72,
@@ -1093,7 +1093,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage4.jpeg"
+    "image": "../image/bage4.jpeg"
     } ,
     {
     "id": 73,
@@ -1108,7 +1108,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage2.jpeg"
+    "image": "../image/bage2.jpeg"
     } ,
     {
     "id": 74,
@@ -1123,7 +1123,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage6.jpeg"
+    "image": "../image/bage6.jpeg"
     } ,
     {
     "id": 75,
@@ -1138,7 +1138,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage8.jpeg"
+    "image": "../image/bage8.jpeg"
     } ,
     {
     "id": 76,
@@ -1153,7 +1153,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage24.jpeg"
+    "image": "../image/bage24.jpeg"
     } ,
     {
     "id": 77,
@@ -1168,7 +1168,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage3.jpeg"
+    "image": "../image/bage3.jpeg"
     } ,
     {
     "id": 78,
@@ -1183,7 +1183,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage26.jpeg"
+    "image": "../image/bage26.jpeg"
     } ,
     {
     "id": 79,
@@ -1198,7 +1198,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage9.jpeg"
+    "image": "../image/bage9.jpeg"
     } ,
     {
     "id": 80,
@@ -1213,7 +1213,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage15.jpeg"
+    "image": "../image/bage15.jpeg"
     } ,
     {
     "id": 81,
@@ -1228,7 +1228,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage12.jpeg"
+    "image": "../image/bage12.jpeg"
     } ,
     {
     "id": 82,
@@ -1243,7 +1243,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage13.jpeg"
+    "image": "../image/bage13.jpeg"
     } ,
     {
     "id": 83,
@@ -1258,7 +1258,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage14.jpeg"
+    "image": "../image/bage14.jpeg"
     } ,
     {
     "id": 84,
@@ -1273,7 +1273,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage16.jpeg"
+    "image": "../image/bage16.jpeg"
     } ,
     {
     "id": 85,
@@ -1288,7 +1288,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage17.jpeg"
+    "image": "../image/bage17.jpeg"
     } ,
     {
     "id": 86,
@@ -1303,7 +1303,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage19.jpeg"
+    "image": "../image/bage19.jpeg"
     } ,
     {
     "id": 87,
@@ -1318,7 +1318,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage20.jpeg"
+    "image": "../image/bage20.jpeg"
     } ,
     {
     "id": 88,
@@ -1333,7 +1333,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage21.jpeg"
+    "image": "../image/bage21.jpeg"
     } ,
     {
     "id": 89,
@@ -1348,7 +1348,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage22.jpeg"
+    "image": "../image/bage22.jpeg"
     } ,
     {
     "id": 90,
@@ -1363,7 +1363,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage23.jpeg"
+    "image": "../image/bage23.jpeg"
     } ,
     {
     "id": 91,
@@ -1378,7 +1378,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/bage24.jpeg"
+    "image": "../image/bage24.jpeg"
     } ,
     {
     "id": 92,
@@ -1393,7 +1393,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry2.jpeg"
+    "image": "../image/Jewelry2.jpeg"
     } ,
     {
     "id": 93,
@@ -1408,7 +1408,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry4.jpeg"
+    "image": "../image/Jewelry4.jpeg"
     } ,
     {
     "id": 94,
@@ -1423,7 +1423,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry6.jpeg"
+    "image": "../image/Jewelry6.jpeg"
     } ,
     {
     "id": 95,
@@ -1438,7 +1438,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry7.jpeg"
+    "image": "../image/Jewelry7.jpeg"
     } ,
     {
     "id": 96,
@@ -1453,7 +1453,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry8.jpeg"
+    "image": "../image/Jewelry8.jpeg"
     } ,
     {
     "id": 97,
@@ -1468,7 +1468,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry9.jpeg"
+    "image": "../image/Jewelry9.jpeg"
     } ,
     {
     "id": 98,
@@ -1483,7 +1483,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry10.jpeg"
+    "image": "../image/Jewelry10.jpeg"
     } ,
     {
     "id": 99,
@@ -1498,7 +1498,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry12.jpeg"
+    "image": "../image/Jewelry12.jpeg"
     } ,
     {
     "id": 100,
@@ -1513,7 +1513,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry13.jpeg"
+    "image": "../image/Jewelry13.jpeg"
     } ,
     {
     "id": 101,
@@ -1528,7 +1528,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry14.jpeg"
+    "image": "../image/Jewelry14.jpeg"
     } ,
     {
     "id": 102,
@@ -1543,7 +1543,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry15.jpeg"
+    "image": "../image/Jewelry15.jpeg"
     } ,
     {
     "id": 103,
@@ -1558,7 +1558,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry16.jpeg"
+    "image": "../image/Jewelry16.jpeg"
     } ,
     {
     "id": 104,
@@ -1573,7 +1573,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry17.jpeg"
+    "image": "../image/Jewelry17.jpeg"
     } ,
     {
     "id": 105,
@@ -1588,7 +1588,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry18.jpeg"
+    "image": "../image/Jewelry18.jpeg"
     } ,
     {
     "id": 106,
@@ -1603,7 +1603,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry19.jpeg"
+    "image": "../image/Jewelry19.jpeg"
     } ,
     {
     "id": 107,
@@ -1618,7 +1618,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry20.jpeg"
+    "image": "../image/Jewelry20.jpeg"
     } ,
     {
     "id": 108,
@@ -1633,7 +1633,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry21.jpeg"
+    "image": "../image/Jewelry21.jpeg"
     } ,
     {
     "id": 109,
@@ -1648,7 +1648,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry22.jpeg"
+    "image": "../image/Jewelry22.jpeg"
     } ,
     {
     "id": 110,
@@ -1663,7 +1663,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry23.jpeg"
+    "image": "../image/Jewelry23.jpeg"
     } ,
     {
     "id": 111,
@@ -1678,7 +1678,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry24.jpeg"
+    "image": "../image/Jewelry24.jpeg"
     } ,
     {
     "id": 112,
@@ -1693,7 +1693,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry25.jpeg"
+    "image": "../image/Jewelry25.jpeg"
     } ,
     {
     "id": 113,
@@ -1708,7 +1708,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry1.jpeg"
+    "image": "../image/Jewelry1.jpeg"
     } ,
     {
     "id": 114,
@@ -1723,7 +1723,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Jewelry26.png"
+    "image": "../image/Jewelry26.png"
     } ,
     {
     "id": 115,
@@ -1738,7 +1738,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes1.jpeg"
+    "image": "../image/shoes1.jpeg"
     } ,
     {
     "id": 116,
@@ -1753,7 +1753,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes2.jpeg"
+    "image": "../image/shoes2.jpeg"
     },
     {
     "id": 117,
@@ -1768,7 +1768,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes3.jpeg"
+    "image": "../image/shoes3.jpeg"
     } ,
     {
     "id": 118,
@@ -1783,7 +1783,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes5.jpeg"
+    "image": "../image/shoes5.jpeg"
     } ,
     {
     "id": 119,
@@ -1798,7 +1798,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes4.jpeg"
+    "image": "../image/shoes4.jpeg"
     } ,
     {
     "id": 120,
@@ -1813,7 +1813,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes6.jpeg"
+    "image": "../image/shoes6.jpeg"
     } ,
     {
     "id": 121,
@@ -1828,7 +1828,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes7.jpeg"
+    "image": "../image/shoes7.jpeg"
     } ,
     {
     "id": 123,
@@ -1843,7 +1843,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes8.jpeg"
+    "image": "../image/shoes8.jpeg"
     } ,
     {
     "id": 124,
@@ -1858,7 +1858,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes9.jpeg"
+    "image": "../image/shoes9.jpeg"
     } ,
     {
     "id": 125,
@@ -1873,7 +1873,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes12.jpeg"
+    "image": "../image/shoes12.jpeg"
     } ,
     {
     "id": 126,
@@ -1888,7 +1888,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes13.jpeg"
+    "image": "../image/shoes13.jpeg"
     } ,
     {
     "id": 127,
@@ -1903,7 +1903,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes14.jpeg"
+    "image": "../image/shoes14.jpeg"
     } ,
     {
     "id": 128,
@@ -1918,7 +1918,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes15.jpeg"
+    "image": "../image/shoes15.jpeg"
     } ,
     {
     "id": 129,
@@ -1933,7 +1933,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes16.jpeg"
+    "image": "../image/shoes16.jpeg"
     } ,
     {
     "id": 130,
@@ -1948,7 +1948,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes17.jpeg"
+    "image": "../image/shoes17.jpeg"
     } ,
     {
     "id": 131,
@@ -1963,7 +1963,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/shoes9.jpeg"
+    "image": "../image/shoes9.jpeg"
     } ,
     {
     "id": 132,
@@ -1978,7 +1978,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport13.jpeg"
+    "image": "../image/sport13.jpeg"
     } ,
     {
     "id": 133,
@@ -1993,7 +1993,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport7.jpeg"
+    "image": "../image/sport7.jpeg"
     } ,
     {
     "id": 134,
@@ -2008,7 +2008,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport5.jpeg"
+    "image": "../image/sport5.jpeg"
     } ,
     {
     "id": 135,
@@ -2023,7 +2023,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport14.jpeg"
+    "image": "../image/sport14.jpeg"
     } ,
     {
     "id": 136,
@@ -2038,7 +2038,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport1.jpeg"
+    "image": "../image/sport1.jpeg"
     } ,
     {
     "id": 137,
@@ -2053,7 +2053,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport39.jpeg"
+    "image": "../image/sport39.jpeg"
     } ,
     {
     "id": 138,
@@ -2068,7 +2068,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport3.jpeg"
+    "image": "../image/sport3.jpeg"
     } ,
     {
     "id": 139,
@@ -2083,7 +2083,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport6.jpeg"
+    "image": "../image/sport6.jpeg"
     } ,
     {
     "id": 140,
@@ -2098,7 +2098,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport8.jpeg"
+    "image": "../image/sport8.jpeg"
     } ,
     {
     "id": 141,
@@ -2113,7 +2113,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport9.jpeg"
+    "image": "../image/sport9.jpeg"
     } ,
     {
     "id": 142,
@@ -2128,7 +2128,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport10.jpeg"
+    "image": "../image/sport10.jpeg"
     } ,
     {
     "id": 143,
@@ -2143,7 +2143,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport11.jpeg"
+    "image": "../image/sport11.jpeg"
     } ,
     {
     "id": 144,
@@ -2158,7 +2158,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport12.jpeg"
+    "image": "../image/sport12.jpeg"
     } ,
     {
     "id": 145,
@@ -2173,7 +2173,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport15.jpeg"
+    "image": "../image/sport15.jpeg"
     } ,
     {
     "id": 146,
@@ -2188,7 +2188,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport16.jpeg"
+    "image": "../image/sport16.jpeg"
     } ,
     {
     "id": 147,
@@ -2203,7 +2203,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport17.jpeg"
+    "image": "../image/sport17.jpeg"
     } ,
     {
     "id": 148,
@@ -2218,7 +2218,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport18.jpeg"
+    "image": "../image/sport18.jpeg"
     } ,
     {
     "id": 149,
@@ -2233,7 +2233,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport19.jpeg"
+    "image": "../image/sport19.jpeg"
     } ,
     {
     "id": 150,
@@ -2248,7 +2248,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport20.jpeg"
+    "image": "../image/sport20.jpeg"
     } ,
     {
     "id": 151,
@@ -2263,7 +2263,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport21.jpeg"
+    "image": "../image/sport21.jpeg"
     } ,
     {
     "id": 152,
@@ -2278,7 +2278,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport22.jpeg"
+    "image": "../image/sport22.jpeg"
     } ,
     {
     "id": 153,
@@ -2293,7 +2293,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport23.jpeg"
+    "image": "../image/sport23.jpeg"
     } ,
     {
     "id": 154,
@@ -2308,7 +2308,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport24.jpeg"
+    "image": "../image/sport24.jpeg"
     } ,
     {
     "id": 155,
@@ -2323,7 +2323,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport25.jpeg"
+    "image": "../image/sport25.jpeg"
     } ,
     {
     "id": 156,
@@ -2338,7 +2338,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport26.jpeg"
+    "image": "../image/sport26.jpeg"
     } ,
     {
     "id": 157,
@@ -2353,7 +2353,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport27.jpeg"
+    "image": "../image/sport27.jpeg"
     } ,
     {
     "id": 158,
@@ -2368,7 +2368,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport28.jpeg"
+    "image": "../image/sport28.jpeg"
     } ,
     {
     "id": 159,
@@ -2383,7 +2383,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport29.jpeg"
+    "image": "../image/sport29.jpeg"
     } ,
     {
     "id": 160,
@@ -2398,7 +2398,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport30.jpeg"
+    "image": "../image/sport30.jpeg"
     } ,
     {
     "id": 161,
@@ -2413,7 +2413,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport31.jpeg"
+    "image": "../image/sport31.jpeg"
     } ,
     {
     "id": 162,
@@ -2428,7 +2428,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport32.jpeg"
+    "image": "../image/sport32.jpeg"
     } ,
     {
     "id": 163,
@@ -2443,7 +2443,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport33.jpeg"
+    "image": "../image/sport33.jpeg"
     } ,
     {
     "id": 164,
@@ -2458,7 +2458,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport34.jpeg"
+    "image": "../image/sport34.jpeg"
     } ,
     {
     "id": 165,
@@ -2473,7 +2473,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport35.jpeg"
+    "image": "../image/sport35.jpeg"
     } ,
     {
     "id": 166,
@@ -2488,7 +2488,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport36.jpeg"
+    "image": "../image/sport36.jpeg"
     } ,
     {
     "id": 167,
@@ -2503,7 +2503,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/sport38.jpeg"
+    "image": "../image/sport38.jpeg"
     } ,
     {
     "id": 168,
@@ -2518,7 +2518,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/watch1.jpeg"
+    "image": "../image/watch1.jpeg"
     } ,
     {
     "id": 169,
@@ -2533,7 +2533,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/watch2.jpeg"
+    "image": "../image/watch2.jpeg"
     } ,
     {
     "id": 170,
@@ -2548,7 +2548,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/watch3.jpeg"
+    "image": "../image/watch3.jpeg"
     } ,
     {
     "id": 171,
@@ -2563,7 +2563,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/watch4.jpeg"
+    "image": "../image/watch4.jpeg"
     } ,
     {
     "id": 172,
@@ -2578,7 +2578,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/watch5.jpeg"
+    "image": "../image/watch5.jpeg"
     } ,
     {
     "id": 173,
@@ -2593,7 +2593,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/watch11.jpeg"
+    "image": "../image/watch11.jpeg"
     } ,
     {
     "id": 174,
@@ -2608,7 +2608,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/watch7.jpeg"
+    "image": "../image/watch7.jpeg"
     } ,
     {
     "id": 175,
@@ -2623,7 +2623,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/watch8.jpeg"
+    "image": "../image/watch8.jpeg"
     } ,
     {
     "id": 176,
@@ -2638,7 +2638,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/watch17.jpeg"
+    "image": "../image/watch17.jpeg"
     } ,
     {
     "id": 177,
@@ -2653,7 +2653,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/watch16.jpeg"
+    "image": "../image/watch16.jpeg"
     } ,
     {
     "id": 178,
@@ -2668,7 +2668,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/watch18.jpeg"
+    "image": "../image/watch18.jpeg"
     } ,
     {
     "id": 179,
@@ -2683,7 +2683,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/watch19.jpeg"
+    "image": "../image/watch19.jpeg"
     } ,
     {
     "id": 180,
@@ -2698,7 +2698,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/watch20.jpeg"
+    "image": "../image/watch20.jpeg"
     } ,
     {
     "id": 181,
@@ -2713,7 +2713,7 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/watch21.jpeg"
+    "image": "../image/watch21.jpeg"
     } ,
     {
     "id": 182,
@@ -2728,6 +2728,6 @@
         "Bluetooth 5.3 & Lossless Audio Support",
         "Includes hardshell carrying case"
     ],
-    "image": "./image/Watches.jpeg"
+    "image": "../image/Watches.jpeg"
     } 
 ]
