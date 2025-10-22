@@ -4,7 +4,7 @@ import Backpacks from '../../assets/image/Backpacks.png';
 import Dresses from '../../assets/image/Dresses.png';
 import Belts from '../../assets/image/Belts.png';
 import Handbags from '../../assets/image/Handbags.png';
-import Watches from '../../assets/image/Watches.png';
+import Backwatch from '../../assets/image/Backwatch.jpg';
 
 
 // Data for Products
@@ -24,8 +24,8 @@ const dealsData = [
   },
   { 
     id: 2, 
-    name: "Brown Q Explorist HR Leather...", 
-    category: "Smart Analog, Smart Watches", 
+    name: "Brown Q Explorist HR ", 
+    category: "Smart Analog, Smart watch", 
     rating: 5, 
     reviews: 1, 
     price: 1699.00, 
@@ -33,7 +33,7 @@ const dealsData = [
     discount: 15, 
     featured: false,
     hasOptions: true,
-    imgUrl: Watches 
+    imgUrl: Backwatch
   },
   { 
     id: 3, 

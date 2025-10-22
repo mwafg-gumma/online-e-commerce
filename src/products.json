@@ -1,371 +1,2733 @@
 [
+  {
+    "id": 1,
+    "name": "Casual Neck",
+    "discount": "10%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "originalPrice": "$100",
+    "details": [
+      "Active Noise Cancellation (ANC) Pro-Level",
+      "40-Hour Playtime with Quick Charge",
+      "Ergonomic, Lightweight Design",
+      "Bluetooth 5.3 & Lossless Audio Support",
+      "Includes hardshell carrying case"
+    ],
+    "image": "image/men3.jpeg"
+  },
     {
-        "id": 1,
-        "name": "Casual Neck",
-        "discount": "10%",
-        "description": "Almost sold out!",
-        "price": "$7.2",
-        "category": "2.7k+ sold",
-        "image": "./image/tshirt1.png"
+    "id": 2,
+    "name": "Fashionable",
+    "discount": "10%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/men4.jpeg"
     },
     {
-        "id": 2,
-        "name": "Fashionable",
-        "discount": "10%",
-        "description": "Almost sold out!",
-        "price": "$10",
-        "category": "5.1k+ sold",
-        "image": "./image/tshirt2.png"
+    "id": 3,
+    "name": "Manfinity Homme",
+    "discount": "20%",
+    "description": "in Spring Sale",
+    "price": "$8.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/tshirt10.jpg"
     },
     {
-        "id": 3,
-        "name": "Manfinity Homme",
-        "discount": "20%",
-        "description": "in Spring Sale",
-        "price": "$8.2",
-        "category": "3.2k+ sold",
-        "image": "./image/tshirt10.jpg"
+    "id": 4,
+    "name": "Casual Men's",
+    "discount": "6%",
+    "description": "Almost sold out!",
+    "price": "$11.1",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/tshirt9.png"
     },
     {
-        "id": 4,
-        "name": "Casual Men's",
-        "discount": "6%",
-        "description": "Almost sold out!",
-        "price": "$11.1",
-        "category": "5.1k+ sold",
-        "image": "./image/tshirt9.png"
+    "id": 5,
+    "name": "Real Madrid",
+    "discount": "10%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women3.jpeg"
+    } ,
+    {
+    "id": 6,
+    "name": "Boyfriend letter Printed",
+    "discount": "7%",
+    "description": "60+ User repurchased",
+    "price": "$10.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women5.jpeg"
+    } ,
+    {
+    "id": 7,
+    "name": "Boyfriend style Mens's",
+    "discount": "36%",
+    "description": "Almost sold out!",
+    "price": "$11.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport3.jpeg"
+    } ,
+    {
+    "id": 8,
+    "name": "Men's Summer Gothic",
+    "discount": "19%",
+    "description": "60+ User repurchased",
+    "price": "$11.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids5.jpeg"
+    } ,
+    {
+    "id": 9,
+    "name": "Manfinity LEGND Men ",
+    "discount": "28%",
+    "description": "Almost sold out!",
+    "price": "$20.0",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/tshirt12.png"
+    } ,
+    {
+    "id": 10,
+    "name": "Spring  Autumn Casual ",
+    "discount": "18%",
+    "description": "in Business",
+    "price": "$300.12",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids1.jpeg"
+    } ,
+    {
+    "id": 11,
+    "name": "INAWLY Solva",
+    "discount": "19%",
+    "description": "in women Max...",
+    "price": "$9.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids2.jpeg"
+    } ,
+    {
+    "id": 12,
+    "name": "Firerie Women's Solid",
+    "discount": "28%",
+    "description": "Almost sold out!",
+    "price": "$10.67",
+        "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/dress2.png"
+    } ,
+    {
+    "id": 13,
+    "name": "Girls' Textured Floral ",
+    "discount": "39%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids4.jpeg"
+    } ,
+    {
+    "id": 14,
+    "name": "BamGleam Women's  ",
+    "discount": "41%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/tshirt4.png"
+    } ,
+    {
+    "id": 15,
+    "name": " Striped Short Sleeve",
+    "discount": "50%",
+    "description": "Only 8 Left",
+    "price": "$12.28",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/tshirt3.png"
+    } ,
+    {
+    "id": 16,
+    "name": "BamGleam Women ",
+    "discount": "45%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids8.jpeg"
+    } ,
+    {
+    "id": 17,
+    "name": " Sleeveless Summer",
+    "discount": "28%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ] , 
+    "image": "./image/men1.jpeg"
+    } ,
+    {
+    "id": 18,
+    "name": "Manfinity Bizformal",
+    "discount": "39%",
+    "description": "60+ User repurchased",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/men2.jpeg"
+    } ,
+    {
+    "id": 19,
+    "name": "Manfinity EMRG Men's",
+    "discount": "8%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],       
+    "image": "./image/men4.jpeg"
+    } ,
+    {
+    "id": 20,
+    "name": "Manfinity Homme",
+    "discount": "12%",
+    "description": "Almost sold out!",
+    "price": "$13.1",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/men5.jpeg"
+    } ,
+    {
+    "id": 21,
+    "name":"Spring & Autumn",
+    "discount": "19%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+      "  details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/men6.jpeg"
+    } ,
+    {
+    "id": 22,
+    "name": "Men's Slim-fit",
+    "discount": "11%",
+    "description": "Almost sold out!",
+    "price": "$19.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/men16.jpeg"
+    } ,
+    {
+    "id": 23,
+    "name": "Men's Solid Color",
+    "discount": "19%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/men17.jpeg"
+    } ,
+    {
+    
+    "id": 24,
+    "name": "Manfinty Hypemode",
+    "discount": "37%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/men18.jpeg"
+    } ,
+    {
+    "id": 25,
+    "name": "Manfinity Hypemode",
+    "discount": "8%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ] , 
+    "image": "./image/men19.jpeg"
+    } ,
+    {
+    "id": 26,
+    "name": "Men's Random Print",
+    "discount": "32%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ], 
+    "image": "./image/men20.jpeg"
+    } ,
+    {
+    "id": 27,
+    "name": "New Casual",
+    "discount": "18%",
+    "description": "Almost sold out!",
+    "price": "$24.01",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/men7.jpeg"
+    } ,
+    {
+    "id": 28,
+    "name": "Summer Breatha",
+    "discount": "12%",
+    "description": "in Spring/Sum",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],  
+    "image": "./image/men9.png"
+    } ,
+    {
+    "id": 29,
+    "name": "white Sneakers",
+    "discount": "45%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/men11.png"
+    } ,
+    {
+    "id": 30,
+    "name": "Men's Low-Top Breath",
+    "discount": "23%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/men12.png"
+    } ,
+    {
+    "id": 31,
+    "name": "Casual Sneakers",
+    "discount": "25%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/men14.jpg"
+    } ,
+    {
+    "id": 32,
+    "name": "Navy White",
+    "discount": "29%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/men13.png"
+    } ,
+    {
+    "id": 33,
+    "name": "Cooling Pad",
+    "discount": "25%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+     " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women2.jpeg"
+    } ,
+    {
+    "id": 34,
+    "name": "Iphone 14 pro",
+    "discount": "12%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women3.jpeg"
+    } ,
+    {
+    "id": 35,
+    "name": "Apple IPad",
+    "discount": "47%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women4.jpeg"
+    } ,
+    {
+    "id": 36,
+    "name": "Smart Watch",
+    "discount": "84%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],  
+    "image": "./image/women6.jpeg"
+    } ,
+    {
+    "id": 37,
+    "name": "Fashionable",
+    "discount": "24%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+      "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women5.jpeg"
+    } ,
+    {
+    "id": 38,
+    "name": "alloy men",
+    "discount": "10%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ] ,
+    "image": "./image/women7.jpeg"
+    } ,
+    {
+    "id": 39,
+    "name": "Men Minimalist Ring",
+    "discount": "2%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ] ,
+    "image": "./image/women8.jpeg"
+    } ,
+    {
+    "id": 40,
+    "name": "Men's Stainless",
+    "discount": "15%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ] , 
+    "image": "./image/women9.jpeg"
+    } ,
+    {
+    "id": 41,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women10.jpeg"
+    } ,
+    {
+    "id": 42,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women12.jpeg"
+    } ,
+    {
+    "id": 43,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women13.jpeg"
+    } ,
+    {
+    "id": 44,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women14.jpeg"
+    } ,
+    {
+    "id": 45,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women15.jpeg"
+    } ,
+    {
+    "id": 46,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women16.jpeg"
+    } ,
+    {
+    "id": 47,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women17.jpeg"
+    } ,
+    {
+    "id": 48,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women18.jpeg"
+    } ,
+    {
+    "id": 49,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women19.jpeg"
+    } ,
+    {
+    "id": 50,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women20.jpeg"
+    } ,
+    {
+    "id": 51,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/women118.jpeg"
+    } ,
+    {
+    "id": 52,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    "details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/dress1.png"
+    } ,
+    {
+    "id": 53,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details " : [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ] ,
+    "image": "./image/kids1.jpeg"
+    } ,
+    {
+    "id": 54,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids2.jpeg"
+    } ,
+    {
+    "id": 55,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids3.jpeg"
+    } ,
+    {
+    "id": 56,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids4.jpeg"
+    } ,
+    {
+    "id": 57,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids5.jpeg"
+    } ,
+    {
+    "id": 58,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids6.jpeg"
+    } ,
+    {
+    "id": 59,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids7.jpeg"
+    } ,
+    {
+    "id": 60,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids9.jpeg"
+    } ,
+    {
+    "id": 61,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids8.jpeg"
+    } ,
+    {
+    "id": 62,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids10.jpeg"
+    } ,
+    {
+    "id": 62,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/kids11.jpeg"
+    } ,
+    {
+    "id": 63,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Kids12.jpeg"
+    } ,
+    {
+    "id": 64,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Kids13.jpeg"
+    } ,
+    {
+    "id": 65,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Kids14.jpeg"
+    } ,
+    {
+    "id": 66,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Kids15.jpeg"
+    } ,
+    {
+    "id": 67,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Kids16.jpeg"
+    } ,
+    {
+    "id": 68,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Kids17.jpeg"
+    } ,
+    {
+    "id": 69,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Kids19.jpeg"
+    } ,
+    {
+    "id": 70,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Kids18.jpeg"
+    } ,
+    {
+    "id": 71,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Kids20.jpeg"
+    } ,
+    {
+    "id": 72,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage4.jpeg"
+    } ,
+    {
+    "id": 73,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage2.jpeg"
+    } ,
+    {
+    "id": 74,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage6.jpeg"
+    } ,
+    {
+    "id": 75,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage8.jpeg"
+    } ,
+    {
+    "id": 76,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage24.jpeg"
+    } ,
+    {
+    "id": 77,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage3.jpeg"
+    } ,
+    {
+    "id": 78,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage26.jpeg"
+    } ,
+    {
+    "id": 79,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage9.jpeg"
+    } ,
+    {
+    "id": 80,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage15.jpeg"
+    } ,
+    {
+    "id": 81,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage12.jpeg"
+    } ,
+    {
+    "id": 82,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage13.jpeg"
+    } ,
+    {
+    "id": 83,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage14.jpeg"
+    } ,
+    {
+    "id": 84,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage16.jpeg"
+    } ,
+    {
+    "id": 85,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage17.jpeg"
+    } ,
+    {
+    "id": 86,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage19.jpeg"
+    } ,
+    {
+    "id": 87,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage20.jpeg"
+    } ,
+    {
+    "id": 88,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage21.jpeg"
+    } ,
+    {
+    "id": 89,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage22.jpeg"
+    } ,
+    {
+    "id": 90,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage23.jpeg"
+    } ,
+    {
+    "id": 91,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/bage24.jpeg"
+    } ,
+    {
+    "id": 92,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry2.jpeg"
+    } ,
+    {
+    "id": 93,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry4.jpeg"
+    } ,
+    {
+    "id": 94,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry6.jpeg"
+    } ,
+    {
+    "id": 95,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry7.jpeg"
+    } ,
+    {
+    "id": 96,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry8.jpeg"
+    } ,
+    {
+    "id": 97,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry9.jpeg"
+    } ,
+    {
+    "id": 98,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry10.jpeg"
+    } ,
+    {
+    "id": 99,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry12.jpeg"
+    } ,
+    {
+    "id": 100,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry13.jpeg"
+    } ,
+    {
+    "id": 101,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry14.jpeg"
+    } ,
+    {
+    "id": 102,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry15.jpeg"
+    } ,
+    {
+    "id": 103,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry16.jpeg"
+    } ,
+    {
+    "id": 104,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry17.jpeg"
+    } ,
+    {
+    "id": 105,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry18.jpeg"
+    } ,
+    {
+    "id": 106,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry19.jpeg"
+    } ,
+    {
+    "id": 107,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry20.jpeg"
+    } ,
+    {
+    "id": 108,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry21.jpeg"
+    } ,
+    {
+    "id": 109,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry22.jpeg"
+    } ,
+    {
+    "id": 110,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry23.jpeg"
+    } ,
+    {
+    "id": 111,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry24.jpeg"
+    } ,
+    {
+    "id": 112,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry25.jpeg"
+    } ,
+    {
+    "id": 113,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry1.jpeg"
+    } ,
+    {
+    "id": 114,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Jewelry26.png"
+    } ,
+    {
+    "id": 115,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes1.jpeg"
+    } ,
+    {
+    "id": 116,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes2.jpeg"
     },
     {
-        "id": 5,
-        "name": "Real Madrid",
-        "discount": "10%",
-        "description": "Almost sold out!",
-        "price": "$8.2",
-        "category": "8.2k+ sold",
-        "image": "./image/tshirt5.png"
+    "id": 117,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes3.jpeg"
     } ,
     {
-        "id": 6,
-        "name": "Boyfriend letter Printed",
-        "discount": "7%",
-        "description": "60+ User repurchased",
-        "price": "$10.2",
-        "category": "2.9k+ sold",
-        "image": "./image/tshirt7.png"
+    "id": 118,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes5.jpeg"
     } ,
     {
-        "id": 7,
-        "name": "Boyfriend style Mens's",
-        "discount": "36%",
-        "description": "Almost sold out!",
-        "price": "$11.2",
-        "category": "6.2k+ sold",
-        "image": "./image/tshirt14.png"
+    "id": 119,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes4.jpeg"
     } ,
     {
-        "id": 8,
-        "name": "Men's Summer Gothic",
-        "discount": "19%",
-        "description": "60+ User repurchased",
-        "price": "$11.2",
-        "category": "3.2k+ sold",
-        "image": "./image/tshirt15.jpg"
+    "id": 120,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes6.jpeg"
     } ,
     {
-        "id": 9,
-        "name": "Manfinity LEGND Men ",
-        "discount": "28%",
-        "description": "Almost sold out!",
-        "price": "$20.0",
-        "category": "500k+ sold",
-        "image": "./image/tshirt12.png"
+    "id": 121,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes7.jpeg"
     } ,
     {
-        "id": 10,
-        "name": "Spring  Autumn Casual ",
-        "discount": "18%",
-        "description": "in Business",
-        "price": "$300.12",
-        "category": "3.2k+ sold",
-        "image": "./image/tshirt13.png"
+    "id": 123,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes8.jpeg"
     } ,
     {
-        "id": 11,
-        "name": "INAWLY Solva",
-        "discount": "19%",
-        "description": "in women Max...",
-        "price": "$9.2",
-        "category": "3.2k+ sold",
-        "image": "./image/dress1.png"
+    "id": 124,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes9.jpeg"
     } ,
     {
-        "id": 12,
-        "name": "Firerie Women's Solid",
-        "discount": "28%",
-        "description": "Almost sold out!",
-        "price": "$10.67",
-        "category": "300+ sold",
-        "image": "./image/dress2.png"
+    "id": 125,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes12.jpeg"
     } ,
     {
-        "id": 13,
-        "name": "Girls' Textured Floral ",
-        "discount": "39%",
-        "description": "Almost sold out!",
-        "price": "$9.1",
-        "category": "200k+ sold",
-        "image": "./image/dress4.png"
+    "id": 126,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes13.jpeg"
     } ,
     {
-        "id": 14,
-        "name": "BamGleam Women's  ",
-        "discount": "41%",
-        "description": "Almost sold out!",
-        "price": "$6.2",
-        "category": "3.2k+ sold",
-        "image": "./image/tshirt4.png"
+    "id": 127,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes14.jpeg"
     } ,
     {
-        "id": 15,
-        "name": " Striped Short Sleeve",
-        "discount": "50%",
-        "description": "Only 8 Left",
-        "price": "$12.28",
-        "category": "70k+ sold",
-        "image": "./image/tshirt3.png"
+    "id": 128,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes15.jpeg"
     } ,
     {
-        "id": 16,
-        "name": "BamGleam Women ",
-        "discount": "45%",
-        "description": "Almost sold out!",
-        "price": "$9.0.1",
-        "category": "3.2k+ sold  "   ,
-        "image": "./image/dress3.jpg"
+    "id": 129,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes16.jpeg"
     } ,
     {
-        "id": 17,
-        "name": " Sleeveless Summer",
-        "discount": "28%",
-        "description": "Almost sold out!",
-        "price": "$11.51",
-        "category": "100k+ sold  ", 
-        "image": "./image/dress5.png"
+    "id": 130,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes17.jpeg"
     } ,
     {
-        "id": 18,
-        "name": "Manfinity Bizformal",
-        "discount": "39%",
-        "description": "60+ User repurchased",
-        "price": "$12.2",
-        "category": "1.1k+ sold ",
-        "image": "./image/pants1.png"
+    "id": 131,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/shoes9.jpeg"
     } ,
     {
-        "id": 19,
-        "name": "Manfinity EMRG Men's",
-        "discount": "8%",
-        "description": "Almost sold out!",
-        "price": "$15.69",
-        "category": "1.7k+ sold ",       
-        "image": "./image/pants2.png"
+    "id": 132,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport13.jpeg"
     } ,
     {
-        "id": 20,
-        "name": "Manfinity Homme",
-        "discount": "12%",
-        "description": "Almost sold out!",
-        "price": "$13.1",
-        "category": "500+ sold ",
-        "image": "./image/pants3.png"
+    "id": 133,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport7.jpeg"
     } ,
     {
-        "id": 21,
-        "name":"Spring & Autumn",
-        "discount": "19%",
-        "description": "Almost sold out!",
-        "price": "$18.2",
-        "category": "1.0k+ sold ",
-        "image": "./image/pants4.png"
+    "id": 134,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport5.jpeg"
     } ,
     {
-        "id": 22,
-        "name": "Men's Slim-fit",
-        "discount": "11%",
-        "description": "Almost sold out!",
-        "price": "$19.2",
-        "category": "100+ sold",
-        "image": "./image/pants5.png"
+    "id": 135,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport14.jpeg"
     } ,
     {
-        "id": 23,
-        "name": "Men's Solid Color",
-        "discount": "19%",
-        "description": "Almost sold out!",
-        "price": "$24.09",
-        "category": "900+ sold ",
-        "image": "./image/pants6.png"
+    "id": 136,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport1.jpeg"
     } ,
     {
-        "id": 24,
-        "name": "Manfinty Hypemode",
-        "discount": "37%",
-        "description": "Almost sold out!",
-        "price": "$20.37",
-        "category": "500k+ sold ",
-        "image": "./image/pants7.png"
+    "id": 137,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport39.jpeg"
     } ,
     {
-        "id": 25,
-        "name": "Manfinity Hypemode",
-        "discount": "8%",
-        "description": "Almost sold out!",
-        "price": "$13.89",
-        "category": "1.2k+ sold  ", 
-        "image": "./image/pants8.jpg"
+    "id": 138,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport3.jpeg"
     } ,
     {
-        "id": 26,
-        "name": "Men's Random Print",
-        "discount": "32%",
-        "description": "Almost sold out!",
-        "price": "$16.00",
-        "category": "300k+ sold ", 
-        "image": "./image/shoes1.jpeg"
+    "id": 139,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport6.jpeg"
     } ,
     {
-        "id": 27,
-        "name": "New Casual",
-        "discount": "18%",
-        "description": "Almost sold out!",
-        "price": "$24.01",
-        "category": "100k+ sold",
-        "image": "./image/shoes2.png"
+    "id": 140,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport8.jpeg"
     } ,
     {
-        "id": 28,
-        "name": "Summer Breatha",
-        "discount": "12%",
-        "description": "in Spring/Sum",
-        "price": "$20.2",
-        "category": "3.2k+ sold ",  
-        "image": "./image/shoes3.png"
+    "id": 141,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport9.jpeg"
     } ,
     {
-        "id": 29,
-        "name": "white Sneakers",
-        "discount": "45%",
-        "description": "Almost sold out!",
-        "price": "$15.2",
-        "category": "300k+ sold ",
-        "image": "./image/shoes4.png"
+    "id": 142,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport10.jpeg"
     } ,
     {
-        "id": 30,
-        "name": "Men's Low-Top Breath",
-        "discount": "23%",
-        "description": "Almost sold out!",
-        "price": "$8.2",
-        "category": "3.2k+ sold ",
-        "image": "./image/shoes5.png"
+    "id": 143,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport11.jpeg"
     } ,
     {
-        "id": 31,
-        "name": "Casual Sneakers",
-        "discount": "25%",
-        "description": "Almost sold out!",
-        "price": "$18.2",
-        "category": "3.2k+ sold ",
-        "image": "./image/shoes6.jpg"
+    "id": 144,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport12.jpeg"
     } ,
     {
-        "id": 32,
-        "name": "Navy White",
-        "discount": "29%",
-        "description": "Almost sold out!",
-        "price": "$23.1",
-        "category": "3.2k+ sold ",
-        "image": "./image/shoes7.png"
+    "id": 145,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport15.jpeg"
     } ,
     {
-        "id": 33,
-        "name": "Cooling Pad",
-        "discount": "25%",
-        "description": "Almost sold out!",
-        "price": "$8.2",
-        "category": "QuickShip ",
-        "image": "./image/fan.png"
+    "id": 146,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport16.jpeg"
     } ,
     {
-        "id": 34,
-        "name": "Iphone 14 pro",
-        "discount": "12%",
-        "description": "Almost sold out!",
-        "price": "$400.2",
-        "category": "QuickShip ",
-        "image": "./image/phone1.png"
+    "id": 147,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport17.jpeg"
     } ,
     {
-        "id": 35,
-        "name": "Apple IPad",
-        "discount": "47%",
-        "description": "Almost sold out!",
-        "price": "$105.2",
-        "category": "QuickShip ",
-        "image": "./image/phone.png"
+    "id": 148,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport18.jpeg"
     } ,
     {
-        "id": 36,
-        "name": "Smart Watch",
-        "discount": "84%",
-        "description": "Almost sold out!",
-        "price": "$15.1",
-        "category": "QuickShip ",  
-        "image": "./image/watch.png"
+    "id": 149,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport19.jpeg"
     } ,
     {
-        "id": 37,
-        "name": "Fashionable",
-        "discount": "24%",
-        "description": "Almost sold out!",
-        "price": "$1.2",
-        "category": "3.2k+ sold ",
-        "image": "./image/jewels1.png"
+    "id": 150,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport20.jpeg"
     } ,
     {
-        "id": 38,
-        "name": "alloy men",
-        "discount": "10%",
-        "description": "Almost sold out!",
-        "price": "$1.57",
-        "category": "3.2k+ sold  ",
-        "image": "./image/jewels2.png"
+    "id": 151,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport21.jpeg"
     } ,
     {
-        "id": 39,
-        "name": "Men Minimalist Ring",
-        "discount": "2%",
-        "description": "Almost sold out!",
-        "price": "$1.26",
-        "category": "3.2k+ sold  ",
-        "image": "./image/jewels3.jpg"
+    "id": 152,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport22.jpeg"
     } ,
     {
-        "id": 40,
-        "name": "Men's Stainless",
-        "discount": "15%",
-        "description": "Almost sold out!",
-        "price": "$1.52",
-        "category": "3.2k+ sold  ", 
-        "image": "./image/jewels4.png"
+    "id": 153,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport23.jpeg"
     } ,
     {
-        "id": 41,
-        "name": "Set Women Jewelry",
-        "discount": "26%",
-        "description": "Almost sold out!",
-        "price": "$5.2",
-        "category": "3.2k+ sold ",
-        "image": "./image/jewels5.png"
+    "id": 154,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport24.jpeg"
+    } ,
+    {
+    "id": 155,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport25.jpeg"
+    } ,
+    {
+    "id": 156,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport26.jpeg"
+    } ,
+    {
+    "id": 157,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport27.jpeg"
+    } ,
+    {
+    "id": 158,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport28.jpeg"
+    } ,
+    {
+    "id": 159,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport29.jpeg"
+    } ,
+    {
+    "id": 160,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport30.jpeg"
+    } ,
+    {
+    "id": 161,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport31.jpeg"
+    } ,
+    {
+    "id": 162,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport32.jpeg"
+    } ,
+    {
+    "id": 163,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport33.jpeg"
+    } ,
+    {
+    "id": 164,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport34.jpeg"
+    } ,
+    {
+    "id": 165,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$80.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport35.jpeg"
+    } ,
+    {
+    "id": 166,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$35.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport36.jpeg"
+    } ,
+    {
+    "id": 167,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$70.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/sport38.jpeg"
+    } ,
+    {
+    "id": 168,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$51.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/watch1.jpeg"
+    } ,
+    {
+    "id": 169,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/watch2.jpeg"
+    } ,
+    {
+    "id": 170,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$42.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/watch3.jpeg"
+    } ,
+    {
+    "id": 171,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/watch4.jpeg"
+    } ,
+    {
+    "id": 172,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$60.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/watch5.jpeg"
+    } ,
+    {
+    "id": 173,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/watch11.jpeg"
+    } ,
+    {
+    "id": 174,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/watch7.jpeg"
+    } ,
+    {
+    "id": 175,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/watch8.jpeg"
+    } ,
+    {
+    "id": 176,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/watch17.jpeg"
+    } ,
+    {
+    "id": 177,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$40.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/watch16.jpeg"
+    } ,
+    {
+    "id": 178,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/watch18.jpeg"
+    } ,
+    {
+    "id": 179,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/watch19.jpeg"
+    } ,
+    {
+    "id": 180,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$25.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/watch20.jpeg"
+    } ,
+    {
+    "id": 181,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$30.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/watch21.jpeg"
+    } ,
+    {
+    "id": 182,
+    "name": "Set Women Jewelry",
+    "discount": "26%",
+    "description": "Almost sold out!",
+    "price": "$20.2",
+    " details": [
+        "Active Noise Cancellation (ANC) Pro-Level",
+        "40-Hour Playtime with Quick Charge",
+        "Ergonomic, Lightweight Design",
+        "Bluetooth 5.3 & Lossless Audio Support",
+        "Includes hardshell carrying case"
+    ],
+    "image": "./image/Watches.jpeg"
     } 
 ]

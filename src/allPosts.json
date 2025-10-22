@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "5 Fall Fashion Trends You Can't Miss This Season",
+    "category": "Fashion Tips",
+    "excerpt": "Dive into the coziest season with our top five must-have trends, from chunky knitwear to rich earthy tones Find out how to style them",
+    "author": "Amal Saeed",
+    "date": "Oct 15, 2025",
+    "image": "../image/last.jpeg",
+    "readingTime": "5 min read"
+  },
+  {
+    "id": 2,
+    "title": "The Ultimate Guide to Choosing the Right Denim",
+    "category": "Style Guide",
+    "excerpt": "From slim-fit to straight-leg, understanding different denim cuts and washes is key to a perfect wardrobe. We break down the essentials",
+    "author": "Tariq Osman",
+    "date": "Sep 28, 2025",
+    "image": "../image/denim1.jpeg",
+    "readingTime": "8 min read"
+  },
+  {
+    "id": 3,
+    "title": "Behind the Seams: Our Commitment to Sustainable Cotton",
+    "category": "Sustainability",
+    "excerpt": "Learn about SHOW's journey towards eco-friendly fashion. We detail our sourcing process and efforts to reduce environmental impact",
+    "author": "SHOW Team",
+    "date": "Aug 10, 2025",
+    "image": "../image/sustainability3.jpeg",
+    "readingTime": "4 min read"
+  },
+  {
+    "id": 4,
+    "title": "How to Build a Capsule Wardrobe for Men",
+    "category": "Men's Style",
+    "excerpt": "Simplify your closet with 10 essential pieces that mix and match effortlessly, ensuring you always look sharp without the clutter",
+    "author": "Amal Saeed",
+    "date": "Jul 21, 2025",
+    "image": "../image/capsule1.jpeg",
+    "readingTime": "6 min read"
+  }
+  
+]

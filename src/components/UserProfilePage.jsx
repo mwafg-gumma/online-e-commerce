@@ -1,112 +1,216 @@
+import React, { useState } from 'react';
+import { FaUser, FaEnvelope, FaTag, FaGoogle, FaApple, FaPaperPlane } from "react-icons/fa";
 
-
-import React from 'react';
-import { FaUserPlus, FaEnvelope, FaLock, FaGoogle, FaApple, FaChevronDown } from 'react-icons/fa';
-
-const UserProfilePage = () => {
-
-    // Simple component to hold the dynamic message text
-    const InputMessage = ({ text }) => (
-        <div className="mt-2 p-2 bg-green-50 border border-green-200 rounded-md text-sm text-gray-800 transition-opacity duration-300">
-            {text}
+    // Input field component
+    const InputField = ({ name, type = 'text', placeholder, icon: Icon, required = false, value, onChange }) => (
+    <div className="relative mb-5">
+        <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-gray-400">
+        <Icon className="w-5 h-5" />
         </div>
+        <input
+        type={type}
+        name={name}
+        placeholder={placeholder + (required ? ' (Required)' : ' (Optional)')}
+        value={value}
+        onChange={onChange}
+        required={required}
+        className="w-full py-3 pl-10 pr-4 border border-gray-300 rounded-lg focus:ring-2 focus:ring-black focus:border-black transition duration-150 text-gray-800 placeholder-gray-500"
+        autoComplete="off"
+        />
+    </div>
     );
+
+    // Social login button component
+    const SocialLoginButton = ({ icon: Icon, platform, onClick }) => (
+    <button
+        onClick={onClick}
+        className="flex items-center justify-center space-x-2 w-full py-3 px-4 rounded-lg border border-gray-300 text-gray-700 font-semibold transition duration-200 hover:bg-gray-100 hover:border-black shadow-sm"
+        type="button"
+    >
+        <Icon className="w-5 h-5" />
+        <span>Continue with {platform}</span>
+    </button>
+    );
+
+    const UserProfilePage = () => {
+    const [formData, setFormData] = useState({
+        name: '',
+        email: '',
+        subject: '',
+        message: '',
+    });
+
+    const [status, setStatus] = useState({
+        loading: false,
+        message: null,
+        type: null,
+    });
+
+    const handleChange = (e) => {
+        setFormData({
+        ...formData,
+        [e.target.name]: e.target.value,
+        });
+        if (status.message) {
+        setStatus({ ...status, message: null, type: null });
+        }
+    };
+
+    const isValidEmail = (email) => {
+        return /^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$/.test(email);
+    };
+
+    const handleSubmit = (e) => {
+        e.preventDefault();
+        setStatus({ loading: true, message: null, type: null });
+
+        const { name, email, message } = formData;
+
+        if (!name || !email || !message) {
+        setStatus({
+            loading: false,
+            message: 'Please fill out all required fields (Name, Email, Message).',
+            type: 'error'
+        });
+        return;
+        }
+
+        if (!isValidEmail(email)) {
+        setStatus({
+            loading: false,
+            message: 'Please enter a valid email address.',
+            type: 'error'
+        });
+        return;
+        }
+
+        setTimeout(() => {
+        setStatus({
+            loading: false,
+            message: 'Thank you for your message! We will get back to you shortly.',
+            type: 'success',
+        });
+        setFormData({
+            name: '',
+            email: '',
+            subject: '',
+            message: '',
+        });
+        }, 1500);
+    };
 
     return (
-        <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4">
-            
-            {/* Main Registration Card */}
-            <div className="w-full max-w-md bg-white rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-500 ease-in-out border border-gray-100 p-8 sm:p-10">
-                
-                <div className="flex flex-col items-center mb-8">
-                    <FaUserPlus className="text-6xl text-gray-800 mb-3" />
-                    <h1 className="text-3xl font-extrabold text-gray-900">Create Your Account</h1>
+        <section className="min-h-screen bg-gray-50 flex items-center justify-center p-4 sm:p-6 md:p-10 font-sans">
+        <div className="w-full max-w-xl bg-white rounded-2xl shadow-2xl p-6 sm:p-10 border border-gray-100 transition duration-500">
+            {/* Header */}
+            <div className="text-center mb-8">
+            <h1 className="text-4xl sm:text-5xl font-extrabold text-gray-900 mb-2">
+                Contact Us
+            </h1>
+            <p className="text-lg text-gray-500">
+                We'd love to hear from you. Please fill out the form below.
+            </p>
+            </div>
+
+            {/* Status Message Display */}
+            {status.message && (
+            <div className={`p-4 mb-6 rounded-lg font-medium ${
+                status.type === 'success'
+                ? 'bg-green-100 text-green-700 border border-green-300'
+                : 'bg-red-100 text-red-700 border border-red-300'
+            }`}>
+                {status.message}
+            </div>
+            )}
+
+            {/* Form */}
+            <form onSubmit={handleSubmit} className="space-y-4">
+            <InputField
+                name="name"
+                placeholder="Please enter your full name here"
+                icon={FaUser}
+                required
+                value={formData.name}
+                onChange={handleChange}
+            />
+            <InputField
+                name="email"
+                type="email"
+                placeholder="example@yourdomain.com"
+                icon={FaEnvelope}
+                required
+                value={formData.email}
+                onChange={handleChange}
+            />
+            <InputField
+                name="subject"
+                placeholder="What is the topic of your message or inquiry?"
+                icon={FaTag}
+                required={false}
+                value={formData.subject}
+                onChange={handleChange}
+            />
+            <div className="relative mb-5">
+                <textarea
+                name="message"
+                placeholder="Write your detailed message here (Required)"
+                value={formData.message}
+                onChange={handleChange}
+                required
+                rows="5"
+                className="w-full py-3 px-4 border border-gray-300 rounded-lg focus:ring-2 focus:ring-black focus:border-black transition duration-150 text-gray-800 placeholder-gray-500 resize-none"
+                ></textarea>
+            </div>
+            <button
+                type="submit"
+                disabled={status.loading}
+                className={`w-full flex items-center justify-center space-x-2 py-3 px-4 rounded-lg text-white font-bold text-lg transition duration-300 transform shadow-lg focus:outline-none ${
+                status.loading
+                    ? 'bg-indigo-400 cursor-not-allowed'
+                    : 'bg-black hover:bg-gray-800 active:scale-[0.98] focus:ring-4 focus:ring-gray-300'
+                }`}
+            >
+                {status.loading ? (
+                <>
+                    <div className="animate-spin rounded-full h-5 w-5 border-t-2 border-b-2 border-white"></div>
+                    <span>Sending Message...</span>
+                </>
+                ) : (
+                <>
+                    <FaPaperPlane className="w-5 h-5 rotate-45 -mt-1 mr-1" />
+                    <span>Send Message</span>
+                </>
+                )}
+            </button>
+            </form>
+
+            {/* --- Social Login Section --- */}
+            <div className="mt-8">
+            <div className="relative flex items-center justify-center my-6">
+                <div className="absolute w-full border-t border-gray-200"></div>
+                <div className="relative px-4 bg-white text-sm text-gray-500">
+                OR
                 </div>
-
-                {/* --- Input Fields --- */}
-
-                {/* Email Field with Focus Message */}
-                <div className="mb-6 group">
-                    <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-1">
-                        Strong Email Address
-                    </label>
-                    <div className="flex items-center border border-gray-300 rounded-lg p-3 bg-white shadow-sm focus-within:ring-2 focus-within:ring-gray-900 focus-within:border-gray-900 transition-all duration-300">
-                        <FaEnvelope className="text-gray-400 mr-3" />
-                        <input
-                            type="email"
-                            id="email"
-                            placeholder="Enter your unique email"
-                            className="w-full bg-white text-gray-800 placeholder-gray-400 focus:outline-none"
-                            required
-                        />
-                    </div>
-                    {/* Message for Email - Hidden by default, shown on group focus-within */}
-                    <div className="opacity-0 group-focus-within:opacity-100 transition-opacity duration-300">
-                         <InputMessage text="Your email is crucial! Use a primary, secure address to avoid lockout." />
-                    </div>
-                </div>
-
-                {/* Password Field with Focus Message */}
-                <div className="mb-8 group">
-                    <label htmlFor="password" className="block text-sm font-medium text-gray-700 mb-1">
-                        Strong Password
-                    </label>
-                    <div className="flex items-center border border-gray-300 rounded-lg p-3 bg-white shadow-sm focus-within:ring-2 focus-within:ring-gray-900 focus-within:border-gray-900 transition-all duration-300">
-                        <FaLock className="text-gray-400 mr-3" />
-                        <input
-                            type="password"
-                            id="password"
-                            placeholder="Min 8 characters, with symbols"
-                            className="w-full bg-white text-gray-800 placeholder-gray-400 focus:outline-none"
-                            required
-                        />
-                    </div>
-                    {/* Message for Password - Hidden by default, shown on group focus-within */}
-                    <div className="opacity-0 group-focus-within:opacity-100 transition-opacity duration-300">
-                         <InputMessage text="For maximum security, use a long, unique combination of upper/lower case letters, numbers, and symbols." />
-                    </div>
-                </div>
-
-                {/* Main Submit Button */}
-                <button 
-                    type="submit"
-                    className="flex items-center justify-center w-full py-3 px-4 bg-gray-900 text-white font-bold rounded-lg shadow-md hover:bg-gray-700 transition duration-200 focus:outline-none focus:ring-4 focus:ring-gray-300"
-                >
-                    Register
-                </button>
-
-                {/* --- OR Separator and Social Options --- */}
-                <div className="flex items-center my-6">
-                    <div className="flex-grow border-t border-gray-300"></div>
-                    <span className="flex-shrink mx-4 text-gray-500 text-sm font-medium">OR</span>
-                    <div className="flex-grow border-t border-gray-300"></div>
-                </div>
-
-                {/* Continue with Google/Apple */}
-                <div className="space-y-3">
-                    <button className="flex items-center justify-center w-full py-2.5 px-4 border border-gray-300 text-gray-700 font-semibold rounded-lg hover:bg-gray-50 transition duration-200">
-                        <FaGoogle className="mr-3 text-lg" />
-                        Continue with Google
-                    </button>
-                    <button className="flex items-center justify-center w-full py-2.5 px-4 border border-gray-300 text-gray-700 font-semibold rounded-lg hover:bg-gray-50 transition duration-200">
-                        <FaApple className="mr-3 text-lg" />
-                        Continue with Apple
-                    </button>
-                </div>
-
-                {/* Sign-in Link */}
-                <div className="text-center mt-8 text-sm">
-                    <p className="text-gray-600">
-                        Already have an account? 
-                        <a href="" className="text-gray-900 font-semibold hover:underline ml-1">
-                            Sign In
-                        </a>
-                    </p>
-                </div>
-
+            </div>
+            <div className="flex flex-col space-y-3">
+                <SocialLoginButton
+                icon={FaGoogle}
+                platform="Google"
+                onClick={() => console.log('Google Login clicked')}
+                />
+                <SocialLoginButton
+                icon={FaApple}
+                platform="Apple"
+                onClick={() => console.log('Apple Login clicked')}
+                />
+            </div>
+            <p className="mt-4 text-center text-xs text-gray-400">
+                The 'Continue with' buttons are placeholders and do not connect to external services.
+            </p>
             </div>
         </div>
+        </section>
     );
-}
+    };
 
 export default UserProfilePage;
